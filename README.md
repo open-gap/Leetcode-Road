@@ -35,4 +35,7 @@
 30   | [串联所有单词的子串❤](./30.串联所有单词的子串.md) | Substring with Concatenation of All Words | 27.7% | 困难  
 31   | [下一个排列](./31.下一个排列.md) | Next Permutation | 32.2% | 中等  
 32   | [最长有效括号❤](./32.最长有效括号.md) | Longest Valid Parentheses | 28.6% | 困难  
-33   | [搜索旋转排序数组 ] | Search in Rotated Sorted Array | 36.2% | 中等  
+33   | [搜索旋转排序数组](./33.搜索旋转排序数组.md) | Search in Rotated Sorted Array | 36.2% | 中等  
+34   | [在排序数组中查找元素的第一个和最后一个位置](./34.在排序数组中查找元素的第一个和最后一个位置.md) |  Find First and Last Position of Element in Sorted Array | 38.1% | 中等  
+35   | [搜索插入位置](./35.搜索插入位置.md) | Search Insert Position | 44.6% | 简单  
+36   |
