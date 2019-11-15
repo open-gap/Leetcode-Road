@@ -38,4 +38,8 @@
 33   | [搜索旋转排序数组](./33.搜索旋转排序数组.md) | Search in Rotated Sorted Array | 36.2% | 中等  
 34   | [在排序数组中查找元素的第一个和最后一个位置](./34.在排序数组中查找元素的第一个和最后一个位置.md) |  Find First and Last Position of Element in Sorted Array | 38.1% | 中等  
 35   | [搜索插入位置](./35.搜索插入位置.md) | Search Insert Position | 44.6% | 简单  
-36   |
+36   | [有效的数独](./36.有效的数独.md) | Valid Sudoku | 56.9% | 中等  
+37   | [解数独](./37.解数独.md) | Sudoku Solver | 57.8% | 困难  
+38   | [报数](./38.报数.md) |  | 53.2% | 简单  
+39   | [组合总和](./39.组合总和.md) |  | 67.3% | 中等  
+40   | []
