@@ -42,7 +42,7 @@
 37   | [解数独](./37.解数独.md) | Sudoku Solver | 57.8% | 困难  
 38   | [报数](./38.报数.md) | Count and Say | 53.2% | 简单  
 39   | [组合总和](./39.组合总和.md) | Combination Sum | 67.3% | 中等  
-40   | []() | Combination Sum II | 58.0% | 中等  
+40   | [组合总和Ⅱ](./40.组合总和Ⅱ.md) | Combination Sum II | 58.0% | 中等  
 41   | []() | First Missing Positive | 36.9% | 困难  
 42   | []() | Trapping Rain Water | 47.0% | 困难  
 43   | []() | Multiply Strings | 40.8% | 中等  
