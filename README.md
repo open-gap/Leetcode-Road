@@ -49,7 +49,7 @@
 44   | [通配符匹配](./44.通配符匹配.md) | Wildcard Matching | 25.3% | 困难  
 45   | [跳跃游戏 II](./45.跳跃游戏II.md) | Jump Game II | 31.9% | 困难  
 46   | [全排列](./46.全排列.md) | Permutations | 72.6% | 中等  
-47   | []() | Permutations II | 55.4% | 中等  
-48   | []() | Rotate Image | 65.4% | 中等  
-49   | []() | Group Anagrams | 59.3% | 中等  
+47   | [全排列 II](./47.全排列II.md) | Permutations II | 55.4% | 中等  
+48   | [旋转图像](./48.旋转图像.md) | Rotate Image | 65.4% | 中等  
+49   | [字母异位词分组](./49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
 50   | []() | Pow(x, n) | 33.4% | 中等  
