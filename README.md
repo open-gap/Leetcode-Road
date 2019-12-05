@@ -53,4 +53,13 @@
 48   | [旋转图像](./48.旋转图像.md) | Rotate Image | 65.4% | 中等  
 49   | [字母异位词分组](./49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
 50   | [Pow(x, n)](./50.Pow(x,n).md) | Pow(x, n) | 33.4% | 中等  
-51   | []() |  |  |   
+51   | [N皇后](./51.N皇后.md) | N-Queens | 66.9% | 困难 |    
+52   | []() | N-Queens II | 76.2% | 困难 |    
+53   | []() | Maximum Subarray | 48.2% | 简单 |    
+54   | []() | Spiral Matrix | 37.8% | 中等 |    
+55   | []() | Jump Game | 37.1% | 中等 |    
+56   | []() | Merge Intervals | 39.3% | 中等 |    
+57   | []() | Insert Interval | 36.1% | 困难 |    
+58   | []() | Length of Last Word | 31.6% | 简单 |    
+59   | []() | Spiral Matrix II | 75.5% | 中等 |   
+60   | []() | Permutation Sequence | 47.4% | 中等 |  
