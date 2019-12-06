@@ -54,8 +54,8 @@
 49   | [字母异位词分组](./49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
 50   | [Pow(x, n)](./50.Pow(x,n).md) | Pow(x, n) | 33.4% | 中等  
 51   | [N皇后](./51.N皇后.md) | N-Queens | 66.9% | 困难 |    
-52   | []() | N-Queens II | 76.2% | 困难 |    
-53   | []() | Maximum Subarray | 48.2% | 简单 |    
+52   | [N皇后 II](./52.N皇后II.md) | N-Queens II | 76.2% | 困难 |    
+53   | [最大子序和](./53.最大子序和.md) | Maximum Subarray | 48.2% | 简单 |    
 54   | []() | Spiral Matrix | 37.8% | 中等 |    
 55   | []() | Jump Game | 37.1% | 中等 |    
 56   | []() | Merge Intervals | 39.3% | 中等 |    
