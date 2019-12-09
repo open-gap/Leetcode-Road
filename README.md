@@ -42,21 +42,21 @@
 37   | [解数独](./37.解数独.md) | Sudoku Solver | 57.8% | 困难  
 38   | [报数](./38.报数.md) | Count and Say | 53.2% | 简单  
 39   | [组合总和](./39.组合总和.md) | Combination Sum | 67.3% | 中等  
-40   | [组合总和Ⅱ](./40.组合总和Ⅱ.md) | Combination Sum II | 58.0% | 中等  
-41   | [缺失的第一个正数](./41.缺失的第一个正数.md) | First Missing Positive | 36.9% | 困难  
+40   | [组合总和Ⅱ❤](./40.组合总和Ⅱ.md) | Combination Sum II | 58.0% | 中等  
+41   | [缺失的第一个正数❤](./41.缺失的第一个正数.md) | First Missing Positive | 36.9% | 困难  
 42   | [接雨水](./42.接雨水.md) | Trapping Rain Water | 47.0% | 困难  
 43   | [字符串相乘](./43.字符串相乘.md) | Multiply Strings | 40.8% | 中等  
-44   | [通配符匹配](./44.通配符匹配.md) | Wildcard Matching | 25.3% | 困难  
+44   | [通配符匹配❤](./44.通配符匹配.md) | Wildcard Matching | 25.3% | 困难  
 45   | [跳跃游戏 II](./45.跳跃游戏II.md) | Jump Game II | 31.9% | 困难  
 46   | [全排列](./46.全排列.md) | Permutations | 72.6% | 中等  
 47   | [全排列 II](./47.全排列II.md) | Permutations II | 55.4% | 中等  
 48   | [旋转图像](./48.旋转图像.md) | Rotate Image | 65.4% | 中等  
-49   | [字母异位词分组](./49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
+49   | [字母异位词分组❤](./49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
 50   | [Pow(x, n)](./50.Pow(x,n).md) | Pow(x, n) | 33.4% | 中等  
 51   | [N皇后](./51.N皇后.md) | N-Queens | 66.9% | 困难 |    
 52   | [N皇后 II](./52.N皇后II.md) | N-Queens II | 76.2% | 困难 |    
-53   | [最大子序和](./53.最大子序和.md) | Maximum Subarray | 48.2% | 简单 |    
-54   | []() | Spiral Matrix | 37.8% | 中等 |    
+53   | [最大子序和❤](./53.最大子序和.md) | Maximum Subarray | 48.2% | 简单 |    
+54   | [螺旋矩阵](./54.螺旋矩阵.md) | Spiral Matrix | 37.8% | 中等 |    
 55   | []() | Jump Game | 37.1% | 中等 |    
 56   | []() | Merge Intervals | 39.3% | 中等 |    
 57   | []() | Insert Interval | 36.1% | 困难 |    
