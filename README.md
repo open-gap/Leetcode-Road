@@ -57,7 +57,7 @@
 52   | [N皇后 II](./52.N皇后II.md) | N-Queens II | 76.2% | 困难 |    
 53   | [最大子序和❤](./53.最大子序和.md) | Maximum Subarray | 48.2% | 简单 |    
 54   | [螺旋矩阵](./54.螺旋矩阵.md) | Spiral Matrix | 37.8% | 中等 |    
-55   | []() | Jump Game | 37.1% | 中等 |    
+55   | [跳跃游戏](./55.跳跃游戏.md) | Jump Game | 37.1% | 中等 |    
 56   | []() | Merge Intervals | 39.3% | 中等 |    
 57   | []() | Insert Interval | 36.1% | 困难 |    
 58   | []() | Length of Last Word | 31.6% | 简单 |    
