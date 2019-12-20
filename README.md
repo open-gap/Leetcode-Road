@@ -62,4 +62,14 @@
 57   | [插入区间](./57.插入区间.md) | Insert Interval | 36.1% | 困难 |    
 58   | [最后一个单词的长度](./58.最后一个单词的长度.md) | Length of Last Word | 31.6% | 简单 |    
 59   | [螺旋矩阵 II](./59.螺旋矩阵II.md) | Spiral Matrix II | 75.5% | 中等 |   
-60   | []() | Permutation Sequence | 47.4% | 中等 |  
+60   | [第k个排列](./60.第k个排列.md) | Permutation Sequence | 47.4% | 中等 |  
+61   | []() | Rotate List | 39.5% | 中等 |  
+62   | []() | Unique Paths | 57.9% | 中等 |  
+63   | []() | Unique Paths II | 32.0% | 中等 |  
+64   | []() | Minimum Path Sum | 63.6% | 中等 |  
+65   | []() | Valid Number | 17.1% | 困难 |  
+66   | []() | Plus One | 42.1% | 简单 |  
+67   | []() | Add Binary | 51.6% | 简单 |  
+68   | []() | Text Justification | 41.9% | 困难 |  
+69   | []() | Sqrt(x) | 37.3% | 简单 |  
+70   | []() | Climbing Stairs | 47.4% | 简单 |  
