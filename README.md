@@ -63,7 +63,7 @@
 58   | [最后一个单词的长度](./58.最后一个单词的长度.md) | Length of Last Word | 31.6% | 简单 |    
 59   | [螺旋矩阵 II](./59.螺旋矩阵II.md) | Spiral Matrix II | 75.5% | 中等 |   
 60   | [第k个排列](./60.第k个排列.md) | Permutation Sequence | 47.4% | 中等 |  
-61   | []() | Rotate List | 39.5% | 中等 |  
+61   | [旋转链表](./61.旋转链表.md) | Rotate List | 39.5% | 中等 |  
 62   | []() | Unique Paths | 57.9% | 中等 |  
 63   | []() | Unique Paths II | 32.0% | 中等 |  
 64   | []() | Minimum Path Sum | 63.6% | 中等 |  
