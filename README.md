@@ -67,8 +67,8 @@
 62   | [不同路径](./62.不同路径.md) | Unique Paths | 57.9% | 中等 |  
 63   | [不同路径 II❤](./63.不同路径II.md) | Unique Paths II | 32.0% | 中等 |  
 64   | [最小路径和](./64.最小路径和.md) | Minimum Path Sum | 63.6% | 中等 |  
-65   | []() | Valid Number | 17.1% | 困难 |  
-66   | []() | Plus One | 42.1% | 简单 |  
+65   | [有效数字❤](./65.有效数字.md) | Valid Number | 17.1% | 困难 |  
+66   | [加一](./66.加一.md) | Plus One | 42.1% | 简单 |  
 67   | []() | Add Binary | 51.6% | 简单 |  
 68   | []() | Text Justification | 41.9% | 困难 |  
 69   | []() | Sqrt(x) | 37.3% | 简单 |  
