@@ -69,7 +69,37 @@
 64   | [最小路径和](./64.最小路径和.md) | Minimum Path Sum | 63.6% | 中等 |  
 65   | [有效数字❤](./65.有效数字.md) | Valid Number | 17.1% | 困难 |  
 66   | [加一](./66.加一.md) | Plus One | 42.1% | 简单 |  
-67   | []() | Add Binary | 51.6% | 简单 |  
-68   | []() | Text Justification | 41.9% | 困难 |  
-69   | []() | Sqrt(x) | 37.3% | 简单 |  
-70   | []() | Climbing Stairs | 47.4% | 简单 |  
+67   | [二进制求和](./67.二进制求和.md) | Add Binary | 51.6% | 简单 |  
+68   | [文本左右对齐](./68.文本左右对齐.md) | Text Justification | 41.9% | 困难 |  
+69   | [x 的平方根❤](./69.x的平方根.md) | Sqrt(x) | 37.3% | 简单 |  
+70   | [爬楼梯](./70.爬楼梯.md) | Climbing Stairs | 47.4% | 简单 |  
+71   | [简化路径❤](./71.简化路径.md) | Simplify Path | 37.9% | 中等 | 
+72   | [编辑距离❤](./72.编辑距离.md) | Edit Distance | 55.3% | 困难 | 
+73   | [矩阵置零](./73.矩阵置零.md) | Set Matrix Zeroes | 54.7% | 中等 | 
+74   | [搜索二维矩阵](./74.搜索二维矩阵.md) | Search a 2D Matrix | 36.6% | 中等 | 
+75   | []() | Sort Colors | 54.2% | 中等 | 
+76   | []() | Minimum Window Substring | 34.8% | 困难 | 
+77   | []() | Combinations | 71.8% | 中等 | 
+78   | []() | Subsets | 75.7% | 中等 | 
+79   | []() | Word Search | 39.6% | 中等 | 
+80   | []() | Remove Duplicates from Sorted Array II | 53.5% | 中等 | 
+81   | []() | Search in Rotated Sorted Array II | 34.7% | 中等 | 
+82   | []() | Remove Duplicates from Sorted List II | 44.8% | 中等 | 
+83   | []() | Remove Duplicates from Sorted List | 48.5% | 简单 | 
+84   | []() | Largest Rectangle in Histogram | 38.0% | 困难 | 
+85   | []() | Maximal Rectangle | 43.5% | 困难 | 
+86   | []() | Partition List | 54.5% | 中等 | 
+87   | []() | Scramble String | 44.6% | 困难 | 
+88   | []() | Merge Sorted Array | 46.0% | 简单 | 
+89   | []() | Gray Code | 67.0% | 中等 | 
+90   | []() | Subsets II | 58.0% | 中等 | 
+91   | []() | Decode Ways | 22.5% | 中等 | 
+92   | []() | Reverse Linked List II | 48.3% | 中等 | 
+93   | []() | Restore IP Addresses | 45.0% | 中等 | 
+94   | []() | Binary Tree Inorder Traversal | 69.3% | 中等 | 
+95   | []() | Unique Binary Search Trees II | 60.5% | 中等 | 
+96   | []() | Unique Binary Search Trees | 64.1% | 中等 | 
+97   | []() | Interleaving String | 37.9% | 困难 | 
+98   | []() | Validate Binary Search Tree | 28.1% | 中等 | 
+99   | []() | Recover Binary Search Tree | 54.1% | 困难 | 
+100  | []() | Same Tree | 55.8% | 简单
