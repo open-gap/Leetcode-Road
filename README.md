@@ -2,7 +2,7 @@
 记录自己完成LeetCode的代码和结果。  
 
 序号 |    中文名称    |    英文名称    |    通过率    |    难度   
-:--- |    :------    |    :-------   |    :-----:   |    :----:   
+:--: |    :------    |    :-------   |    :-----:   |    :----:   
 1    | [两数之和](./1.两数之和.md) | Two Sum | 47.0% | 简单  
 2    | [两数相加](./2.两数相加.md) | Add Two Numbers | 36.0% | 中等  
 3    | [无重复字符的最长子串](./3.无重复字符的最长子串.md) | Longest Substring Without Repeating Characters | 32.0% | 中等   
@@ -77,9 +77,9 @@
 72   | [编辑距离❤](./72.编辑距离.md) | Edit Distance | 55.3% | 困难 | 
 73   | [矩阵置零](./73.矩阵置零.md) | Set Matrix Zeroes | 54.7% | 中等 | 
 74   | [搜索二维矩阵](./74.搜索二维矩阵.md) | Search a 2D Matrix | 36.6% | 中等 | 
-75   | []() | Sort Colors | 54.2% | 中等 | 
-76   | []() | Minimum Window Substring | 34.8% | 困难 | 
-77   | []() | Combinations | 71.8% | 中等 | 
+75   | [颜色分类](./75.颜色分类.md) | Sort Colors | 54.2% | 中等 | 
+76   | [最小覆盖子串❤](./76.最小覆盖子串.md) | Minimum Window Substring | 34.8% | 困难 | 
+77   | [组合](./77.组合.md) | Combinations | 71.8% | 中等 | 
 78   | []() | Subsets | 75.7% | 中等 | 
 79   | []() | Word Search | 39.6% | 中等 | 
 80   | []() | Remove Duplicates from Sorted Array II | 53.5% | 中等 | 
