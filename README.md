@@ -79,9 +79,9 @@
 74   | [搜索二维矩阵](./74.搜索二维矩阵.md) | Search a 2D Matrix | 36.6% | 中等 | 
 75   | [颜色分类](./75.颜色分类.md) | Sort Colors | 54.2% | 中等 | 
 76   | [最小覆盖子串❤](./76.最小覆盖子串.md) | Minimum Window Substring | 34.8% | 困难 | 
-77   | [组合](./77.组合.md) | Combinations | 71.8% | 中等 | 
-78   | []() | Subsets | 75.7% | 中等 | 
-79   | []() | Word Search | 39.6% | 中等 | 
+77   | [组合❤](./77.组合.md) | Combinations | 71.8% | 中等 | 
+78   | [子集](./78.子集.md) | Subsets | 75.7% | 中等 | 
+79   | [单词搜索](./79.单词搜索.md) | Word Search | 39.6% | 中等 | 
 80   | []() | Remove Duplicates from Sorted Array II | 53.5% | 中等 | 
 81   | []() | Search in Rotated Sorted Array II | 34.7% | 中等 | 
 82   | []() | Remove Duplicates from Sorted List II | 44.8% | 中等 | 
