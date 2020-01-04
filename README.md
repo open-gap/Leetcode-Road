@@ -82,16 +82,16 @@
 77   | [组合❤](./77.组合.md) | Combinations | 71.8% | 中等 | 
 78   | [子集](./78.子集.md) | Subsets | 75.7% | 中等 | 
 79   | [单词搜索](./79.单词搜索.md) | Word Search | 39.6% | 中等 | 
-80   | []() | Remove Duplicates from Sorted Array II | 53.5% | 中等 | 
-81   | []() | Search in Rotated Sorted Array II | 34.7% | 中等 | 
-82   | []() | Remove Duplicates from Sorted List II | 44.8% | 中等 | 
-83   | []() | Remove Duplicates from Sorted List | 48.5% | 简单 | 
-84   | []() | Largest Rectangle in Histogram | 38.0% | 困难 | 
-85   | []() | Maximal Rectangle | 43.5% | 困难 | 
-86   | []() | Partition List | 54.5% | 中等 | 
+80   | [删除排序数组中的重复项 II](./80.删除排序数组中的重复项II.md) | Remove Duplicates from Sorted Array II | 53.5% | 中等 | 
+81   | [搜索旋转排序数组 II](./81.搜索旋转排序数组II.md) | Search in Rotated Sorted Array II | 34.7% | 中等 | 
+82   | [删除排序链表中的重复元素 II](./82.删除排序链表中的重复元素II.md) | Remove Duplicates from Sorted List II | 44.8% | 中等 | 
+83   | [删除排序链表中的重复元素](./83.删除排序链表中的重复元素.md) | Remove Duplicates from Sorted List | 48.5% | 简单 | 
+84   | [柱状图中最大的矩形❤](./84.柱状图中最大的矩形.md) | Largest Rectangle in Histogram | 38.0% | 困难 | 
+85   | [最大矩形❤](./85.最大矩形.md) | Maximal Rectangle | 43.5% | 困难 | 
+86   | [分隔链表](./86.分隔链表.md) | Partition List | 54.5% | 中等 | 
 87   | []() | Scramble String | 44.6% | 困难 | 
-88   | []() | Merge Sorted Array | 46.0% | 简单 | 
-89   | []() | Gray Code | 67.0% | 中等 | 
+88   | [合并两个有序数组](./88.合并两个有序数组.md) | Merge Sorted Array | 46.0% | 简单 | 
+89   | [格雷编码](./89.格雷编码.md) | Gray Code | 67.0% | 中等 | 
 90   | []() | Subsets II | 58.0% | 中等 | 
 91   | []() | Decode Ways | 22.5% | 中等 | 
 92   | []() | Reverse Linked List II | 48.3% | 中等 | 
