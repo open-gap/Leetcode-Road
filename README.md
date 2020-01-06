@@ -92,8 +92,8 @@
 87   | []() | Scramble String | 44.6% | 困难 | 
 88   | [合并两个有序数组](./88.合并两个有序数组.md) | Merge Sorted Array | 46.0% | 简单 | 
 89   | [格雷编码](./89.格雷编码.md) | Gray Code | 67.0% | 中等 | 
-90   | []() | Subsets II | 58.0% | 中等 | 
-91   | []() | Decode Ways | 22.5% | 中等 | 
+90   | [子集 II](./90.子集II.md) | Subsets II | 58.0% | 中等 | 
+91   | [解码方法](./91.解码方法.md) | Decode Ways | 22.5% | 中等 | 
 92   | []() | Reverse Linked List II | 48.3% | 中等 | 
 93   | []() | Restore IP Addresses | 45.0% | 中等 | 
 94   | []() | Binary Tree Inorder Traversal | 69.3% | 中等 | 
