@@ -87,9 +87,9 @@
 82   | [删除排序链表中的重复元素 II](./82.删除排序链表中的重复元素II.md) | Remove Duplicates from Sorted List II | 44.8% | 中等 | 
 83   | [删除排序链表中的重复元素](./83.删除排序链表中的重复元素.md) | Remove Duplicates from Sorted List | 48.5% | 简单 | 
 84   | [柱状图中最大的矩形❤](./84.柱状图中最大的矩形.md) | Largest Rectangle in Histogram | 38.0% | 困难 | 
-85   | [最大矩形❤](./85.最大矩形.md) | Maximal Rectangle | 43.5% | 困难 | 
+85   | [最大矩形](./85.最大矩形.md) | Maximal Rectangle | 43.5% | 困难 | 
 86   | [分隔链表](./86.分隔链表.md) | Partition List | 54.5% | 中等 | 
-87   | []() | Scramble String | 44.6% | 困难 | 
+87   | [扰乱字符串❤❤](./87.扰乱字符串.md) | Scramble String | 44.6% | 困难 | 
 88   | [合并两个有序数组❤](./88.合并两个有序数组.md) | Merge Sorted Array | 46.0% | 简单 | 
 89   | [格雷编码](./89.格雷编码.md) | Gray Code | 67.0% | 中等 | 
 90   | [子集 II](./90.子集II.md) | Subsets II | 58.0% | 中等 | 
@@ -101,7 +101,55 @@
 96   | [不同的二叉搜索树❤](./96.不同的二叉搜索树.md) | Unique Binary Search Trees | 64.1% | 中等 | 
 97   | [交错字符串](./97.交错字符串.md) | Interleaving String | 37.9% | 困难 | 
 98   | [验证二叉搜索树❤](./98.验证二叉搜索树.md) | Validate Binary Search Tree | 28.1% | 中等 | 
-99   | []() | Recover Binary Search Tree | 54.1% | 困难 | 
+99   | [恢复二叉搜索树](./99.恢复二叉搜索树.md) | Recover Binary Search Tree | 54.1% | 困难 | 
 100  | [相同的树](./100.相同的树.md) | Same Tree | 55.8% | 简单 |  
 101  | [对称二叉树❤](./101.对称二叉树.md) | Symmetric Tree | 49.5% | 简单 |  
 102  | [二叉树的层次遍历](./102.二叉树的层次遍历.md) | Binary Tree Level Order Traversal | 60.2% | 中等 |  
+103  | []() | Binary Tree Zigzag Level Order Traversal | 53.0% | 中等 | 
+104  | []() | Maximum Depth of Binary Tree | 71.9% | 简单 | 
+105  | []() | Construct Binary Tree from Preorder and Inorder Traversal | 63.4% | 中等 | 
+106  | []() | Construct Binary Tree from Inorder and Postorder Traversal | 66.2% | 中等 | 
+107  | []() | Binary Tree Level Order Traversal II | 63.7% | 简单 | 
+108  | []() | Convert Sorted Array to Binary Search Tree | 68.5% | 简单 | 
+109  | []() | Convert Sorted List to Binary Search Tree | 69.7% | 中等 | 
+110  | []() | Balanced Binary Tree | 49.6% | 简单 | 
+111  | []() | Minimum Depth of Binary Tree | 41.0% | 简单 | 
+112  | []() | Path Sum | 48.7% | 简单 | 
+113  | []() | Path Sum II | 58.0% | 中等 | 
+114  | []() | Flatten Binary Tree to Linked List | 66.7% | 中等 | 
+115  | []() | Distinct Subsequences | 46.2% | 困难 | 
+116  | []() | Populating Next Right Pointers in Each Node | 52.3% | 中等 | 
+117  | []() | Populating Next Right Pointers in Each Node II | 43.6% | 中等 | 
+118  | []() | Pascal's Triangle | 65.3% | 简单 | 
+119  | []() | Pascal's Triangle II | 59.5% | 简单 | 
+120  | []() | Triangle | 63.1% | 中等 | 
+121  | []() | Best Time to Buy and Sell Stock | 52.0% | 简单 | 
+122  | []() | Best Time to Buy and Sell Stock II | 57.0% | 简单 | 
+123  | []() | Best Time to Buy and Sell Stock III | 40.2% | 困难 | 
+124  | []() | Binary Tree Maximum Path Sum | 38.7% | 困难 | 
+125  | []() | Valid Palindrome | 42.0% | 简单 | 
+126  | []() | Word Ladder II | 30.9% | 困难 | 
+127  | []() | Word Ladder | 38.9% | 中等 | 
+128  | []() | Longest Consecutive Sequence | 47.3% | 困难 | 
+129  | []() | Sum Root to Leaf Numbers | 60.7% | 中等 | 
+130  | []() | Surrounded Regions | 38.6% | 中等 | 
+131  | []() | Palindrome Partitioning | 4.8% | 中等 | 
+132  | []() | Palindrome Partitioning II | 41.3% | 困难 | 
+133  | []() | Clone Graph | 47.4% | 中等 | 
+134  | []() | Gas Station | 50.5% | 中等 | 
+135  | []() | Candy | 40.8% | 困难 | 
+136  | []() | Single Number | 64.8% | 简单 | 
+137  | []() | Single Number II | 65.2% | 中等 | 
+138  | []() | Copy List with Random Pointer | 42.1% | 中等 | 
+139  | []() | Word Break | 42.9% | 中等 | 
+140  | []() | Word Break II | 37.5% | 困难 | 
+141  | []() | Linked List Cycle | 45.5% | 简单 | 
+142  | []() | Linked List Cycle II | 47.5% | 中等 | 
+143  | []() | Reorder List | 54.1% | 中等 | 
+144  | []() | Binary Tree Preorder Traversal | 63.5% | 中等 | 
+145  | []() | Binary Tree Postorder Traversal | 69.6% | 困难 | 
+146  | []() | LRU Cache | 45.0% | 中等 | 
+147  | []() | Insertion Sort List | 61.9% | 中等 | 
+148  | []() | Sort List | 63.1% | 中等 | 
+149  | []() | Max Points on a Line | 20.2% | 困难 | 
+150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等
