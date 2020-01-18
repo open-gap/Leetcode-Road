@@ -105,8 +105,8 @@
 100  | [相同的树](./100.相同的树.md) | Same Tree | 55.8% | 简单 |  
 101  | [对称二叉树❤](./101.对称二叉树.md) | Symmetric Tree | 49.5% | 简单 |  
 102  | [二叉树的层次遍历](./102.二叉树的层次遍历.md) | Binary Tree Level Order Traversal | 60.2% | 中等 |  
-103  | []() | Binary Tree Zigzag Level Order Traversal | 53.0% | 中等 | 
-104  | []() | Maximum Depth of Binary Tree | 71.9% | 简单 | 
+103  | [二叉树的锯齿形层次遍历](./103.二叉树的锯齿形层次遍历.md) | Binary Tree Zigzag Level Order Traversal | 53.0% | 中等 | 
+104  | [二叉树的最大深度](./104.二叉树的最大深度.md) | Maximum Depth of Binary Tree | 71.9% | 简单 | 
 105  | []() | Construct Binary Tree from Preorder and Inorder Traversal | 63.4% | 中等 | 
 106  | []() | Construct Binary Tree from Inorder and Postorder Traversal | 66.2% | 中等 | 
 107  | []() | Binary Tree Level Order Traversal II | 63.7% | 简单 | 
