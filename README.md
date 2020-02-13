@@ -117,9 +117,9 @@
 112  | [路径总和](./112.路径总和.md) | Path Sum | 48.7% | 简单 | 
 113  | [路径总和 II](./113.路径总和II.md) | Path Sum II | 58.0% | 中等 | 
 114  | [二叉树展开为链表❤](./114.二叉树展开为链表.md) | Flatten Binary Tree to Linked List | 66.7% | 中等 | 
-115  | []() | Distinct Subsequences | 46.2% | 困难 | 
-116  | []() | Populating Next Right Pointers in Each Node | 52.3% | 中等 | 
-117  | []() | Populating Next Right Pointers in Each Node II | 43.6% | 中等 | 
+115  | [不同的子序列](./115.不同的子序列.md) | Distinct Subsequences | 46.2% | 困难 | 
+116  | [填充每个节点的下一个右侧节点指针](./116.填充每个节点的下一个右侧节点指针.md) | Populating Next Right Pointers in Each Node | 52.3% | 中等 | 
+117  | [填充每个节点的下一个右侧节点指针 II](./117.填充每个节点的下一个右侧节点指针II.md) | Populating Next Right Pointers in Each Node II | 43.6% | 中等 | 
 118  | []() | Pascal's Triangle | 65.3% | 简单 | 
 119  | []() | Pascal's Triangle II | 59.5% | 简单 | 
 120  | []() | Triangle | 63.1% | 中等 | 
