@@ -120,9 +120,9 @@
 115  | [不同的子序列](./115.不同的子序列.md) | Distinct Subsequences | 46.2% | 困难 | 
 116  | [填充每个节点的下一个右侧节点指针](./116.填充每个节点的下一个右侧节点指针.md) | Populating Next Right Pointers in Each Node | 52.3% | 中等 | 
 117  | [填充每个节点的下一个右侧节点指针 II](./117.填充每个节点的下一个右侧节点指针II.md) | Populating Next Right Pointers in Each Node II | 43.6% | 中等 | 
-118  | []() | Pascal's Triangle | 65.3% | 简单 | 
-119  | []() | Pascal's Triangle II | 59.5% | 简单 | 
-120  | []() | Triangle | 63.1% | 中等 | 
+118  | [杨辉三角](./118.杨辉三角.md) | Pascal's Triangle | 65.3% | 简单 | 
+119  | [杨辉三角 II](./119.杨辉三角II.md) | Pascal's Triangle II | 59.5% | 简单 | 
+120  | [三角形最小路径和](./120.三角形最小路径和.md) | Triangle | 63.1% | 中等 | 
 121  | []() | Best Time to Buy and Sell Stock | 52.0% | 简单 | 
 122  | []() | Best Time to Buy and Sell Stock II | 57.0% | 简单 | 
 123  | []() | Best Time to Buy and Sell Stock III | 40.2% | 困难 | 
