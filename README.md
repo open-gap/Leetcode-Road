@@ -126,9 +126,9 @@
 121  | [买卖股票的最佳时机](./121.买卖股票的最佳时机.md) | Best Time to Buy and Sell Stock | 52.0% | 简单 | 
 122  | [买卖股票的最佳时机 II](./122.买卖股票的最佳时机II.md) | Best Time to Buy and Sell Stock II | 57.0% | 简单 | 
 123  | [买卖股票的最佳时机 III❤](./123.买卖股票的最佳时机III.md) | Best Time to Buy and Sell Stock III | 40.2% | 困难 | 
-124  | [ 二叉树中的最大路径和](./124.二叉树中的最大路径和.md) | Binary Tree Maximum Path Sum | 38.7% | 困难 | 
+124  | [二叉树中的最大路径和](./124.二叉树中的最大路径和.md) | Binary Tree Maximum Path Sum | 38.7% | 困难 | 
 125  | [验证回文串](./125.验证回文串.md) | Valid Palindrome | 42.0% | 简单 | 
-126  | []() | Word Ladder II | 30.9% | 困难 | 
+126  | [单词接龙 II❤❤](./126.单词接龙II.md) | Word Ladder II | 30.9% | 困难 | 
 127  | [单词接龙❤](./127.单词接龙.md) | Word Ladder | 38.9% | 中等 | 
 128  | [最长连续序列](./128.最长连续序列.md) | Longest Consecutive Sequence | 47.3% | 困难 | 
 129  | [求根到叶子节点数字之和](./129.求根到叶子节点数字之和.md) | Sum Root to Leaf Numbers | 60.7% | 中等 | 
@@ -138,8 +138,8 @@
 133  | []() | Clone Graph | 47.4% | 中等 | 
 134  | []() | Gas Station | 50.5% | 中等 | 
 135  | []() | Candy | 40.8% | 困难 | 
-136  | []() | Single Number | 64.8% | 简单 | 
-137  | []() | Single Number II | 65.2% | 中等 | 
+136  | [只出现一次的数字](./136.只出现一次的数字.md) | Single Number | 64.8% | 简单 | 
+137  | [只出现一次的数字 II](./137.只出现一次的数字II.md) | Single Number II | 65.2% | 中等 | 
 138  | []() | Copy List with Random Pointer | 42.1% | 中等 | 
 139  | []() | Word Break | 42.9% | 中等 | 
 140  | []() | Word Break II | 37.5% | 困难 | 
