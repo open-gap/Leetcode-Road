@@ -140,7 +140,7 @@
 135  | []() | Candy | 40.8% | 困难 | 
 136  | [只出现一次的数字](./136.只出现一次的数字.md) | Single Number | 64.8% | 简单 | 
 137  | [只出现一次的数字 II](./137.只出现一次的数字II.md) | Single Number II | 65.2% | 中等 | 
-138  | []() | Copy List with Random Pointer | 42.1% | 中等 | 
+138  | [复制带随机指针的链表](./138.复制带随机指针的链表.md) | Copy List with Random Pointer | 42.1% | 中等 | 
 139  | []() | Word Break | 42.9% | 中等 | 
 140  | []() | Word Break II | 37.5% | 困难 | 
 141  | []() | Linked List Cycle | 45.5% | 简单 | 
@@ -152,4 +152,6 @@
 147  | []() | Insertion Sort List | 61.9% | 中等 | 
 148  | []() | Sort List | 63.1% | 中等 | 
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
-150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等
+150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
+---  | []() | --------------------- | ----% | --  
+887  | [鸡蛋掉落](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
