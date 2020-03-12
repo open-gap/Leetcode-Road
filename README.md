@@ -143,8 +143,8 @@
 138  | [复制带随机指针的链表](./138.复制带随机指针的链表.md) | Copy List with Random Pointer | 42.1% | 中等 | 
 139  | []() | Word Break | 42.9% | 中等 | 
 140  | []() | Word Break II | 37.5% | 困难 | 
-141  | []() | Linked List Cycle | 45.5% | 简单 | 
-142  | []() | Linked List Cycle II | 47.5% | 中等 | 
+141  | [环形链表](./141.环形链表.md) | Linked List Cycle | 45.5% | 简单 | 
+142  | [环形链表 II](./142.环形链表II.md) | Linked List Cycle II | 47.5% | 中等 | 
 143  | []() | Reorder List | 54.1% | 中等 | 
 144  | []() | Binary Tree Preorder Traversal | 63.5% | 中等 | 
 145  | []() | Binary Tree Postorder Traversal | 69.6% | 困难 | 
@@ -154,4 +154,5 @@
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
 150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
 ---  | []() | --------------------- | ----% | --  
-887  | [鸡蛋掉落](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
+887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
+1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单  
