@@ -145,14 +145,16 @@
 140  | []() | Word Break II | 37.5% | 困难 | 
 141  | [环形链表](./141.环形链表.md) | Linked List Cycle | 45.5% | 简单 | 
 142  | [环形链表 II](./142.环形链表II.md) | Linked List Cycle II | 47.5% | 中等 | 
-143  | []() | Reorder List | 54.1% | 中等 | 
-144  | []() | Binary Tree Preorder Traversal | 63.5% | 中等 | 
-145  | []() | Binary Tree Postorder Traversal | 69.6% | 困难 | 
+143  | [重排链表](./143.重排链表.md) | Reorder List | 54.1% | 中等 | 
+144  | [二叉树的前序遍历](./144.二叉树的前序遍历.md) | Binary Tree Preorder Traversal | 63.5% | 中等 | 
+145  | [二叉树的后序遍历](./145.二叉树的后序遍历.md) | Binary Tree Postorder Traversal | 69.6% | 困难 | 
 146  | []() | LRU Cache | 45.0% | 中等 | 
 147  | []() | Insertion Sort List | 61.9% | 中等 | 
 148  | []() | Sort List | 63.1% | 中等 | 
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
 150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
 ---  | []() | --------------------- | ----% | --  
+169  | [多数元素](./169.多数元素.md) |  |  | 简单  
+300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等  
 887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
 1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单  
