@@ -134,10 +134,10 @@
 129  | [求根到叶子节点数字之和](./129.求根到叶子节点数字之和.md) | Sum Root to Leaf Numbers | 60.7% | 中等 | 
 130  | [被围绕的区域](./130.被围绕的区域.md) | Surrounded Regions | 38.6% | 中等 | 
 131  | [分割回文串](./131.分割回文串.md) | Palindrome Partitioning | 65.4% | 中等 | 
-132  | []() | Palindrome Partitioning II | 42.1% | 困难 | 
+132  | [分割回文串 II❤](./132.分割回文串II.md) | Palindrome Partitioning II | 42.1% | 困难 | 
 133  | [克隆图](./133.克隆图.md) | Clone Graph | 47.4% | 中等 | 
 134  | [加油站](./134.加油站.md) | Gas Station | 50.5% | 中等 | 
-135  | []() | Candy | 40.8% | 困难 | 
+135  | [分发糖果❤](./135.分发糖果.md) | Candy | 40.8% | 困难 | 
 136  | [只出现一次的数字](./136.只出现一次的数字.md) | Single Number | 64.8% | 简单 | 
 137  | [只出现一次的数字 II](./137.只出现一次的数字II.md) | Single Number II | 65.2% | 中等 | 
 138  | [复制带随机指针的链表](./138.复制带随机指针的链表.md) | Copy List with Random Pointer | 42.1% | 中等 | 
@@ -154,7 +154,8 @@
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
 150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
 ---  | []() | --------------------- | ----% | --  
-169  | [多数元素](./169.多数元素.md) |  |  | 简单  
+169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单  
 300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等  
+695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等  
 887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
 1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单  
