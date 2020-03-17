@@ -141,8 +141,8 @@
 136  | [只出现一次的数字](./136.只出现一次的数字.md) | Single Number | 64.8% | 简单 | 
 137  | [只出现一次的数字 II](./137.只出现一次的数字II.md) | Single Number II | 65.2% | 中等 | 
 138  | [复制带随机指针的链表](./138.复制带随机指针的链表.md) | Copy List with Random Pointer | 42.1% | 中等 | 
-139  | []() | Word Break | 42.9% | 中等 | 
-140  | []() | Word Break II | 37.5% | 困难 | 
+139  | [单词拆分❤](./139.单词拆分.md) | Word Break | 42.9% | 中等 | 
+140  | [单词拆分 II❤❤](./140.单词拆分II.md) | Word Break II | 37.5% | 困难 | 
 141  | [环形链表](./141.环形链表.md) | Linked List Cycle | 45.5% | 简单 | 
 142  | [环形链表 II](./142.环形链表II.md) | Linked List Cycle II | 47.5% | 中等 | 
 143  | [重排链表](./143.重排链表.md) | Reorder List | 54.1% | 中等 | 
@@ -154,8 +154,9 @@
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
 150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
 ---  | []() | --------------------- | ----% | --  
-169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单  
-300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等  
-695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等  
-887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难  
-1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单  
+169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单 | 
+300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
+695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
+887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
+1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
+1160 | [拼写单词](./1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
