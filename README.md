@@ -148,8 +148,8 @@
 143  | [重排链表](./143.重排链表.md) | Reorder List | 54.1% | 中等 | 
 144  | [二叉树的前序遍历](./144.二叉树的前序遍历.md) | Binary Tree Preorder Traversal | 63.5% | 中等 | 
 145  | [二叉树的后序遍历](./145.二叉树的后序遍历.md) | Binary Tree Postorder Traversal | 69.6% | 困难 | 
-146  | []() | LRU Cache | 45.0% | 中等 | 
-147  | []() | Insertion Sort List | 61.9% | 中等 | 
+146  | [LRU缓存机制❤❤](./146.LRU缓存机制.md) | LRU Cache | 45.0% | 中等 | 
+147  | [对链表进行插入排序](./147.对链表进行插入排序.md) | Insertion Sort List | 61.9% | 中等 | 
 148  | []() | Sort List | 63.1% | 中等 | 
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
 150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
@@ -157,6 +157,7 @@
 169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单 | 
 300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
+836  | [矩形重叠](./836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
 1160 | [拼写单词](./1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
