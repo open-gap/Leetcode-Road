@@ -150,12 +150,13 @@
 145  | [二叉树的后序遍历](./145.二叉树的后序遍历.md) | Binary Tree Postorder Traversal | 69.6% | 困难 | 
 146  | [LRU缓存机制❤❤](./146.LRU缓存机制.md) | LRU Cache | 45.0% | 中等 | 
 147  | [对链表进行插入排序](./147.对链表进行插入排序.md) | Insertion Sort List | 61.9% | 中等 | 
-148  | []() | Sort List | 63.1% | 中等 | 
+148  | [排序链表❤](./148.排序链表.md) | Sort List | 63.1% | 中等 | 
 149  | []() | Max Points on a Line | 20.2% | 困难 | 
-150  | []() | Evaluate Reverse Polish Notation | 48.4% | 中等 
----  | []() | --------------------- | ----% | --  
+150  | [逆波兰表达式求值](./150.逆波兰表达式求值.md) | Evaluate Reverse Polish Notation | 48.4% | 中等 | 
+---  | []() | ---------------------------- | ----% | --  | 
 169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单 | 
-300  | [最长上升子序列❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
+300  | [最长上升子序列❤❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
+409  | [最长回文串](./409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 836  | [矩形重叠](./836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
