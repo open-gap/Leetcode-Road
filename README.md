@@ -156,9 +156,11 @@
 ---  | []() | ---------------------------- | ----% | --  | 
 169  | [多数元素](./169.多数元素.md) | Majority Element | 62.7% | 简单 | 
 300  | [最长上升子序列❤❤](./300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
+365  | [水壶问题❤❤](./365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 409  | [最长回文串](./409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 695  | [岛屿的最大面积](./695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 836  | [矩形重叠](./836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 887  | [鸡蛋掉落❤❤](./887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
+945  | [使数组唯一的最小增量](./945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
 1071 | [字符串的最大公因子](./1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
 1160 | [拼写单词](./1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
