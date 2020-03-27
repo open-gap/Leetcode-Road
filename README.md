@@ -155,6 +155,7 @@
 150  | [逆波兰表达式求值](./md/150.逆波兰表达式求值.md) | Evaluate Reverse Polish Notation | 48.4% | 中等 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
+215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
@@ -163,6 +164,7 @@
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
+914  | [卡牌分组](./md/914.卡牌分组.md) | X of a Kind in a Deck of Cards | 35.8% | 简单 | 
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
 999  | [车的可用捕获量](./md/999.车的可用捕获量.md) | Available Captures for Rook | 70.0% | 简单 | 
 1071 | [字符串的最大公因子](./md/1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
