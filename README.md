@@ -1,58 +1,58 @@
 # LeetCode 学习之路 #
 记录自己完成LeetCode的代码和结果。  
 
-序号 |    中文名称    |    英文名称    |    通过率    |    难度   
-:--: |    :------    |    :-------   |    :-----:   |    :----:   
-1    | [两数之和](./md/1.两数之和.md) | Two Sum | 47.0% | 简单  
-2    | [两数相加](./md/2.两数相加.md) | Add Two Numbers | 36.0% | 中等  
-3    | [无重复字符的最长子串](./md/3.无重复字符的最长子串.md) | Longest Substring Without Repeating Characters | 32.0% | 中等   
-4    | [寻找两个有序数组的中位数](./md/4.寻找两个有序数组的中位数.md) | Median of Two Sorted Arrays | 36.3% | 困难  
-5    | [最长回文子串❤](./md/5.最长回文子串.md) | Longest Palindromic Substring | 27.6% | 中等  
-6    | [Z 字形变换](./md/6.Z字形变换.md) | ZigZag Conversion | 45.6% | 中等  
-7    | [整数反转](./md/7.整数反转.md) | Reverse Integer | 33.2% | 简单  
-8    | [字符串转换整数 (atoi)](./md/8.字符串转换整数(atoi).md) | String to Integer (atoi) | 18.5% | 中等  
-9    | [回文数](./md/9.回文数.md) | Palindrome Number | 56.7% | 简单  
-10   | [正则表达式匹配❤](./md/10.正则表达式匹配.md) | Regular Expression Matching | 25.3% | 困难  
-11   | [盛最多水的容器](./md/11.盛最多水的容器.md) | Container With Most Water | 59.3% | 中等  
-12   | [整数转罗马数字](./md/12.整数转罗马数字.md) | Integer to Roman | 61.8% | 中等  
-13   | [罗马数字转整数](./md/13.罗马数字转整数.md) | Roman to Integer | 59.6% | 简单  
-14   | [最长公共前缀](./md/14.最长公共前缀.md) | Longest Common Prefix | 35.3% | 简单  
-15   | [三数之和❤](./md/15.三数之和.md) | 3Sum | 24.4% | 中等  
-16   | [最接近的三数之和](./md/16.最接近的三数之和.md) | 3Sum Closest | 42.0% | 中等  
-17   | [电话号码的字母组合](./md/17.电话号码的字母组合.md) | Letter Combinations of a Phone Number | 51.5% | 中等  
-18   | [四数之和](./md/18.四数之和.md) | 4Sum | 36.0% | 中等  
-19   | [删除链表的倒数第N个节点](./md/19.删除链表的倒数第N个节点.md) | Remove Nth Node From End of List | 36.3% | 中等  
-20   | [有效的括号](./md/20.有效的括号.md) | Valid Parentheses | 40.0% | 简单  
-21   | [合并两个有序链表](./md/21.合并两个有序链表.md) | Merge Two Sorted Lists | 58.2% | 简单  
-22   | [括号生成❤](./md/22.括号生成.md) | Generate Parentheses | 72.4% | 中等  
-23   | [合并K个排序链表](./md/23.合并K个排序链表.md) | Merge k Sorted Lists | 47.8% | 困难  
-24   | [两两交换链表中的节点](./md/24.两两交换链表中的节点.md) | Swap Nodes in Pairs | 62.8% | 困难  
-25   | [K 个一组翻转链表](./md/25.K个一组翻转链表.md) | Reverse Nodes in k-Group | 54.9% | 困难  
-26   | [删除排序数组中的重复项](./md/26.删除排序数组中的重复项.md) | Remove Duplicates from Sorted Array | 47.2% | 简单  
-27   | [移除元素](./md/27.移除元素.md) | Remove Element | 56.5% | 简单  
-28   | [实现 strStr()❤](./md/28.实现strStr().md) | Implement strStr() | 39.0% | 简单  
-29   | [两数相除](./md/29.两数相除.md) | Divide Two Integers | 18.8% | 中等  
-30   | [串联所有单词的子串❤](./md/30.串联所有单词的子串.md) | Substring with Concatenation of All Words | 27.7% | 困难  
-31   | [下一个排列](./md/31.下一个排列.md) | Next Permutation | 32.2% | 中等  
-32   | [最长有效括号❤](./md/32.最长有效括号.md) | Longest Valid Parentheses | 28.6% | 困难  
-33   | [搜索旋转排序数组](./md/33.搜索旋转排序数组.md) | Search in Rotated Sorted Array | 36.2% | 中等  
-34   | [在排序数组中查找元素的第一个和最后一个位置](./md/34.在排序数组中查找元素的第一个和最后一个位置.md) |  Find First and Last Position of Element in Sorted Array | 38.1% | 中等  
-35   | [搜索插入位置](./md/35.搜索插入位置.md) | Search Insert Position | 44.6% | 简单  
-36   | [有效的数独](./md/36.有效的数独.md) | Valid Sudoku | 56.9% | 中等  
-37   | [解数独](./md/37.解数独.md) | Sudoku Solver | 57.8% | 困难  
-38   | [报数](./md/38.报数.md) | Count and Say | 53.2% | 简单  
-39   | [组合总和](./md/39.组合总和.md) | Combination Sum | 67.3% | 中等  
-40   | [组合总和Ⅱ❤](./md/40.组合总和Ⅱ.md) | Combination Sum II | 58.0% | 中等  
-41   | [缺失的第一个正数❤](./md/41.缺失的第一个正数.md) | First Missing Positive | 36.9% | 困难  
-42   | [接雨水](./md/42.接雨水.md) | Trapping Rain Water | 47.0% | 困难  
-43   | [字符串相乘](./md/43.字符串相乘.md) | Multiply Strings | 40.8% | 中等  
-44   | [通配符匹配❤](./md/44.通配符匹配.md) | Wildcard Matching | 25.3% | 困难  
-45   | [跳跃游戏 II](./md/45.跳跃游戏II.md) | Jump Game II | 31.9% | 困难  
-46   | [全排列](./md/46.全排列.md) | Permutations | 72.6% | 中等  
-47   | [全排列 II](./md/47.全排列II.md) | Permutations II | 55.4% | 中等  
-48   | [旋转图像](./md/48.旋转图像.md) | Rotate Image | 65.4% | 中等  
-49   | [字母异位词分组❤](./md/49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等  
-50   | [Pow(x, n)](./md/50.Pow(x,n).md) | Pow(x, n) | 33.4% | 中等  
+序号 |    中文名称    |    英文名称    |    通过率    |    难度    | 
+:--: |    :------     |    :-------   |    :-----:   |    :----:  | 
+1    | [两数之和](./md/1.两数之和.md) | Two Sum | 47.0% | 简单 | 
+2    | [两数相加](./md/2.两数相加.md) | Add Two Numbers | 36.0% | 中等 | 
+3    | [无重复字符的最长子串](./md/3.无重复字符的最长子串.md) | Longest Substring Without Repeating Characters | 32.0% | 中等  | 
+4    | [寻找两个有序数组的中位数](./md/4.寻找两个有序数组的中位数.md) | Median of Two Sorted Arrays | 36.3% | 困难 | 
+5    | [最长回文子串❤](./md/5.最长回文子串.md) | Longest Palindromic Substring | 27.6% | 中等 | 
+6    | [Z 字形变换](./md/6.Z字形变换.md) | ZigZag Conversion | 45.6% | 中等 | 
+7    | [整数反转](./md/7.整数反转.md) | Reverse Integer | 33.2% | 简单 | 
+8    | [字符串转换整数 (atoi)](./md/8.字符串转换整数(atoi).md) | String to Integer (atoi) | 18.5% | 中等 | 
+9    | [回文数](./md/9.回文数.md) | Palindrome Number | 56.7% | 简单 | 
+10   | [正则表达式匹配❤](./md/10.正则表达式匹配.md) | Regular Expression Matching | 25.3% | 困难 | 
+11   | [盛最多水的容器](./md/11.盛最多水的容器.md) | Container With Most Water | 59.3% | 中等 | 
+12   | [整数转罗马数字](./md/12.整数转罗马数字.md) | Integer to Roman | 61.8% | 中等 | 
+13   | [罗马数字转整数](./md/13.罗马数字转整数.md) | Roman to Integer | 59.6% | 简单 | 
+14   | [最长公共前缀](./md/14.最长公共前缀.md) | Longest Common Prefix | 35.3% | 简单 | 
+15   | [三数之和❤](./md/15.三数之和.md) | 3Sum | 24.4% | 中等 | 
+16   | [最接近的三数之和](./md/16.最接近的三数之和.md) | 3Sum Closest | 42.0% | 中等 | 
+17   | [电话号码的字母组合](./md/17.电话号码的字母组合.md) | Letter Combinations of a Phone Number | 51.5% | 中等 | 
+18   | [四数之和](./md/18.四数之和.md) | 4Sum | 36.0% | 中等 | 
+19   | [删除链表的倒数第N个节点](./md/19.删除链表的倒数第N个节点.md) | Remove Nth Node From End of List | 36.3% | 中等 | 
+20   | [有效的括号](./md/20.有效的括号.md) | Valid Parentheses | 40.0% | 简单 | 
+21   | [合并两个有序链表](./md/21.合并两个有序链表.md) | Merge Two Sorted Lists | 58.2% | 简单 | 
+22   | [括号生成❤](./md/22.括号生成.md) | Generate Parentheses | 72.4% | 中等 | 
+23   | [合并K个排序链表](./md/23.合并K个排序链表.md) | Merge k Sorted Lists | 47.8% | 困难 | 
+24   | [两两交换链表中的节点](./md/24.两两交换链表中的节点.md) | Swap Nodes in Pairs | 62.8% | 困难 | 
+25   | [K 个一组翻转链表](./md/25.K个一组翻转链表.md) | Reverse Nodes in k-Group | 54.9% | 困难 | 
+26   | [删除排序数组中的重复项](./md/26.删除排序数组中的重复项.md) | Remove Duplicates from Sorted Array | 47.2% | 简单 | 
+27   | [移除元素](./md/27.移除元素.md) | Remove Element | 56.5% | 简单 | 
+28   | [实现 strStr()❤](./md/28.实现strStr().md) | Implement strStr() | 39.0% | 简单 | 
+29   | [两数相除](./md/29.两数相除.md) | Divide Two Integers | 18.8% | 中等 | 
+30   | [串联所有单词的子串❤](./md/30.串联所有单词的子串.md) | Substring with Concatenation of All Words | 27.7% | 困难 | 
+31   | [下一个排列](./md/31.下一个排列.md) | Next Permutation | 32.2% | 中等 | 
+32   | [最长有效括号❤](./md/32.最长有效括号.md) | Longest Valid Parentheses | 28.6% | 困难 | 
+33   | [搜索旋转排序数组](./md/33.搜索旋转排序数组.md) | Search in Rotated Sorted Array | 36.2% | 中等 | 
+34   | [在排序数组中查找元素的第一个和最后一个位置](./md/34.在排序数组中查找元素的第一个和最后一个位置.md) |  Find First and Last Position of Element in Sorted Array | 38.1% | 中等 | 
+35   | [搜索插入位置](./md/35.搜索插入位置.md) | Search Insert Position | 44.6% | 简单 | 
+36   | [有效的数独](./md/36.有效的数独.md) | Valid Sudoku | 56.9% | 中等 | 
+37   | [解数独](./md/37.解数独.md) | Sudoku Solver | 57.8% | 困难 | 
+38   | [报数](./md/38.报数.md) | Count and Say | 53.2% | 简单 | 
+39   | [组合总和](./md/39.组合总和.md) | Combination Sum | 67.3% | 中等 | 
+40   | [组合总和Ⅱ❤](./md/40.组合总和Ⅱ.md) | Combination Sum II | 58.0% | 中等 | 
+41   | [缺失的第一个正数❤](./md/41.缺失的第一个正数.md) | First Missing Positive | 36.9% | 困难 | 
+42   | [接雨水](./md/42.接雨水.md) | Trapping Rain Water | 47.0% | 困难 | 
+43   | [字符串相乘](./md/43.字符串相乘.md) | Multiply Strings | 40.8% | 中等 | 
+44   | [通配符匹配❤](./md/44.通配符匹配.md) | Wildcard Matching | 25.3% | 困难 | 
+45   | [跳跃游戏 II](./md/45.跳跃游戏II.md) | Jump Game II | 31.9% | 困难 | 
+46   | [全排列](./md/46.全排列.md) | Permutations | 72.6% | 中等 | 
+47   | [全排列 II](./md/47.全排列II.md) | Permutations II | 55.4% | 中等 | 
+48   | [旋转图像](./md/48.旋转图像.md) | Rotate Image | 65.4% | 中等 | 
+49   | [字母异位词分组❤](./md/49.字母异位词分组.md) | Group Anagrams | 59.3% | 中等 | 
+50   | [Pow(x, n)](./md/50.Pow(x,n).md) | Pow(x, n) | 33.4% | 中等 | 
 51   | [N皇后](./md/51.N皇后.md) | N-Queens | 66.9% | 困难 |    
 52   | [N皇后 II](./md/52.N皇后II.md) | N-Queens II | 76.2% | 困难 |    
 53   | [最大子序和❤](./md/53.最大子序和.md) | Maximum Subarray | 48.2% | 简单 |    
@@ -155,19 +155,36 @@
 150  | [逆波兰表达式求值](./md/150.逆波兰表达式求值.md) | Evaluate Reverse Polish Notation | 48.4% | 中等 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
+206  | [反转链表](./md/206.反转链表.md) | Reverse Linked List | 68.3% | 简单 |
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
+225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
+322  | [零钱兑换❤❤](./md/322.零钱兑换.md) | Coin Change | 38.8% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
+543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
+912  | [排序数组❤❤](./md/912.排序数组.md) |  |  | 简单 | 
 914  | [卡牌分组](./md/914.卡牌分组.md) | X of a Kind in a Deck of Cards | 35.8% | 简单 | 
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
-999  | [车的可用捕获量](./md/999.车的可用捕获量.md) | Available Captures for Rook | 70.0% | 简单 | 
+994  | [腐烂的橘子](./md/994.腐烂的橘子.md) | Rotting Oranges | 50.6% | 简单 | 
+999  | [可以被一步捕获的棋子数](./md/999.可以被一步捕获的棋子数.md) | Available Captures for Rook | 70.0% | 简单 | 
+1013 | [将数组分成和相等的三个部分](./md/1013.将数组分成和相等的三个部分.md) | Partition Array Into Three Parts With Equal Sum | 40.8% | 简单 | 
 1071 | [字符串的最大公因子](./md/1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
+1103 | [分糖果 II](./md/1103.分糖果II.md) | Distribute Candies to People | 62.9% | 简单 | 
+1111 | [有效括号的嵌套深度](./md/1111.有效括号的嵌套深度.md) | Maximum Nesting Depth of Two Valid Parentheses Strings | 76.2% | 中等 | 
 1160 | [拼写单词](./md/1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
-1162 | [地图分析](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
+1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
+---  | []() | ---------------------------- | ----% | --  | 
+面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
+面试题 10.01 | [合并排序的数组](./md/面试题10.01.合并排序的数组.md) | Sorted Merge LCCI | 54.9% | 简单 | 
+面试题 17.16 | [按摩师](./md/面试题17.16.按摩师.md) | The Masseuse LCCI | 53.7% | 简单 | 
+面试题40 | [最小的k个数❤](./md/面试题40.最小的k个数.md) | 最小的k个数  LCOF | 59.9% | 简单 | 
+面试题57 - II | [和为s的连续正数序列](./md/面试题57-II.和为s的连续正数序列.md) | 和为s的连续正数序列 LCOF | 68.3% | 简单 | 
+面试题59 - II | [队列的最大值❤](./md/面试题59-II.队列的最大值.md) | 队列的最大值 LCOF | 49.0% | 中等 |
+面试题62 | [圆圈中最后剩下的数字❤](./md/面试题62.圆圈中最后剩下的数字.md) | 圆圈中最后剩下的数字 LCOF | 58.8% | 简单 | 
