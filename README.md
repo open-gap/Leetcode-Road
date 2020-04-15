@@ -162,9 +162,12 @@
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 322  | [零钱兑换❤❤](./md/322.零钱兑换.md) | Coin Change | 38.8% | 中等 | 
+355  | [设计推特](./md/355.设计推特.md) | Design Twitter | 40.5% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
+445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
+542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
