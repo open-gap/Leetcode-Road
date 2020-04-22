@@ -156,6 +156,7 @@
 151  | [翻转字符串里的单词](./md/151.翻转字符串里的单词.md) | Reverse Words in a String | 40.5% | 中等 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
+199  | [二叉树的右视图](./md/199.二叉树的右视图.md) | Binary Tree Right Side View | 63.6% | 中等 | 
 200  | [岛屿数量](./md/200.岛屿数量.md) | Number of Islands | 49.0% | 中等 | 
 206  | [反转链表](./md/206.反转链表.md) | Reverse Linked List | 68.3% | 简单 |
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
@@ -187,6 +188,7 @@
 1111 | [有效括号的嵌套深度](./md/1111.有效括号的嵌套深度.md) | Maximum Nesting Depth of Two Valid Parentheses Strings | 76.2% | 中等 | 
 1160 | [拼写单词](./md/1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
 1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
+1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
 面试题 01.07 | [旋转矩阵](./md/面试题01.07.旋转矩阵.md) | Rotate Matrix LCCI | 80.6% | 中等 | 
