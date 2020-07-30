@@ -157,6 +157,7 @@
 ---  | []() | ---------------------------- | ----% | --  | 
 167  | [两数之和 II - 输入有序数组](./md/167.两数之和II-输入有序数组.md) | Two Sum II - Input array is sorted | 55.6% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
+174  | [地下城游戏❤](./md/174.地下城游戏.md) | Dungeon Game | 47.9% | 困难 | 
 199  | [二叉树的右视图](./md/199.二叉树的右视图.md) | Binary Tree Right Side View | 63.6% | 中等 | 
 200  | [岛屿数量](./md/200.岛屿数量.md) | Number of Islands | 49.0% | 中等 | 
 206  | [反转链表](./md/206.反转链表.md) | Reverse Linked List | 68.3% | 简单 | 
@@ -168,11 +169,14 @@
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
 315  | [计算右侧小于当前元素的个数❤❤](./md/315.计算右侧小于当前元素的个数.md) | Count of Smaller Numbers After Self | 38.5% | 困难 | 
 322  | [零钱兑换❤❤](./md/322.零钱兑换.md) | Coin Change | 38.8% | 中等 | 
+343  | [整数拆分](./md/343.整数拆分.md) | Integer Break | 58.2% | 中等 | 
 350  | [两个数组的交集 II](./md/350.两个数组的交集II.md) | Intersection of Two Arrays II | 50.2% | 简单 | 
 355  | [设计推特](./md/355.设计推特.md) | Design Twitter | 40.5% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 378  | [有序矩阵中第K小的元素❤](./md/378.有序矩阵中第K小的元素.md) | Kth Smallest Element in a Sorted Matrix | 61.8% | 中等 | 
+392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
+410  | [分割数组的最大值](./md/410.分割数组的最大值.md) | Split Array Largest Sum | 52.6% | 困难 | 
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
@@ -191,6 +195,7 @@
 994  | [腐烂的橘子](./md/994.腐烂的橘子.md) | Rotting Oranges | 50.6% | 简单 | 
 999  | [可以被一步捕获的棋子数](./md/999.可以被一步捕获的棋子数.md) | Available Captures for Rook | 70.0% | 简单 | 
 1013 | [将数组分成和相等的三个部分](./md/1013.将数组分成和相等的三个部分.md) | Partition Array Into Three Parts With Equal Sum | 40.8% | 简单 | 
+1025 | [除数博弈](./md/1025.除数博弈.md) | Divisor Game | 71.4% | 简单 | 
 1071 | [字符串的最大公因子](./md/1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
 1103 | [分糖果 II](./md/1103.分糖果II.md) | Distribute Candies to People | 62.9% | 简单 | 
 1111 | [有效括号的嵌套深度](./md/1111.有效括号的嵌套深度.md) | Maximum Nesting Depth of Two Valid Parentheses Strings | 76.2% | 中等 | 
