@@ -158,10 +158,13 @@
 167  | [两数之和 II - 输入有序数组](./md/167.两数之和II-输入有序数组.md) | Two Sum II - Input array is sorted | 55.6% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
 174  | [地下城游戏❤](./md/174.地下城游戏.md) | Dungeon Game | 47.9% | 困难 | 
+198  | [打家劫舍](./md/198.打家劫舍.md) | House Robber | 46.2% | 简单 | 
 199  | [二叉树的右视图](./md/199.二叉树的右视图.md) | Binary Tree Right Side View | 63.6% | 中等 | 
 200  | [岛屿数量](./md/200.岛屿数量.md) | Number of Islands | 49.0% | 中等 | 
 206  | [反转链表](./md/206.反转链表.md) | Reverse Linked List | 68.3% | 简单 | 
+207  | [课程表❤](./md/207.课程表.md) | Course Schedule | 53.8% | 中等 | 
 209  | [长度最小的子数组](./md/209.长度最小的子数组.md) | Minimum Size Subarray Sum | 44.4% | 中等 | 
+213  | [打家劫舍 II](./md/213.打家劫舍II.md) | House Robber II | 38.9% | 中等 | 
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
@@ -169,6 +172,7 @@
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
 315  | [计算右侧小于当前元素的个数❤❤](./md/315.计算右侧小于当前元素的个数.md) | Count of Smaller Numbers After Self | 38.5% | 困难 | 
 322  | [零钱兑换❤❤](./md/322.零钱兑换.md) | Coin Change | 38.8% | 中等 | 
+337  | [打家劫舍 III](./md/337.打家劫舍III.md) | House Robber III | 58.5% | 中等 | 
 343  | [整数拆分](./md/343.整数拆分.md) | Integer Break | 58.2% | 中等 | 
 350  | [两个数组的交集 II](./md/350.两个数组的交集II.md) | Intersection of Two Arrays II | 50.2% | 简单 | 
 355  | [设计推特](./md/355.设计推特.md) | Design Twitter | 40.5% | 中等 | 
@@ -177,6 +181,7 @@
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 410  | [分割数组的最大值](./md/410.分割数组的最大值.md) | Split Array Largest Sum | 52.6% | 困难 | 
+415  | [字符串相加](./md/415.字符串相加.md) | Add Strings | 51.7% | 简单 | 
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
