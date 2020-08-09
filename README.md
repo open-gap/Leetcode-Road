@@ -154,6 +154,9 @@
 149  | [直线上最多的点数❤](./md/149.直线上最多的点数.md) | Max Points on a Line | 20.2% | 困难 | 
 150  | [逆波兰表达式求值](./md/150.逆波兰表达式求值.md) | Evaluate Reverse Polish Notation | 48.4% | 中等 | 
 151  | [翻转字符串里的单词](./md/151.翻转字符串里的单词.md) | Reverse Words in a String | 40.5% | 中等 | 
+152  | [乘积最大子数组❤](./md/152.乘积最大子数组.md) | Maximum Product Subarray | 40.1% | 中等 | 
+153  | [寻找旋转排序数组中的最小值](./md/153.寻找旋转排序数组中的最小值.md) | Find Minimum in Rotated Sorted Array | 51.5% | 中等 | 
+154  | [寻找旋转排序数组中的最小值 II](./md/154.寻找旋转排序数组中的最小值II.md) | Find Minimum in Rotated Sorted Array II | 50.0% | 困难 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 167  | [两数之和 II - 输入有序数组](./md/167.两数之和II-输入有序数组.md) | Two Sum II - Input array is sorted | 55.6% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
