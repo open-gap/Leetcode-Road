@@ -157,6 +157,7 @@
 152  | [乘积最大子数组❤](./md/152.乘积最大子数组.md) | Maximum Product Subarray | 40.1% | 中等 | 
 153  | [寻找旋转排序数组中的最小值](./md/153.寻找旋转排序数组中的最小值.md) | Find Minimum in Rotated Sorted Array | 51.5% | 中等 | 
 154  | [寻找旋转排序数组中的最小值 II](./md/154.寻找旋转排序数组中的最小值II.md) | Find Minimum in Rotated Sorted Array II | 50.0% | 困难 | 
+155  | [最小栈](./md/155.最小栈.md) | Min Stack | 55.1% | 简单 | 
 ---  | []() | ---------------------------- | ----% | --  | 
 167  | [两数之和 II - 输入有序数组](./md/167.两数之和II-输入有序数组.md) | Two Sum II - Input array is sorted | 55.6% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
@@ -190,8 +191,12 @@
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
+546  | [移除盒子❤](./md/546.移除盒子.md) | Remove Boxes | 64.7% | 困难 | 
+632  | [最小区间❤](./md/632.最小区间.md) | Smallest Range Covering Elements from K Lists | 58.8% | 困难 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
+696  | [计数二进制子串](./md/696.计数二进制子串.md) | Count Binary Substrings | 56.7% | 简单 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
+733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
