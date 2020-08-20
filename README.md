@@ -189,6 +189,7 @@
 415  | [字符串相加](./md/415.字符串相加.md) | Add Strings | 51.7% | 简单 | 
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
+529  | [扫雷游戏](./md/529.扫雷游戏.md) | Minesweeper | 64.8% | 中等 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 546  | [移除盒子❤](./md/546.移除盒子.md) | Remove Boxes | 64.7% | 困难 | 
