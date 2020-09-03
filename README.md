@@ -171,6 +171,7 @@
 207  | [课程表❤](./md/207.课程表.md) | Course Schedule | 53.8% | 中等 | 
 209  | [长度最小的子数组](./md/209.长度最小的子数组.md) | Minimum Size Subarray Sum | 44.4% | 中等 | 
 213  | [打家劫舍 II](./md/213.打家劫舍II.md) | House Robber II | 38.9% | 中等 | 
+214  | [最短回文串](./md/214.最短回文串.md) |  |  | 困难 | 
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
@@ -178,6 +179,7 @@
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
 315  | [计算右侧小于当前元素的个数❤❤](./md/315.计算右侧小于当前元素的个数.md) | Count of Smaller Numbers After Self | 38.5% | 困难 | 
 322  | [零钱兑换❤❤](./md/322.零钱兑换.md) | Coin Change | 38.8% | 中等 | 
+332  | [重新安排行程❤](./md/332.重新安排行程.md) | Reconstruct Itinerary | 43.8% | 中等 | 
 336  | [回文对❤](./md/336.回文对.md) | Palindrome Pairs | 37.3% | 困难 | 
 337  | [打家劫舍 III](./md/337.打家劫舍III.md) | House Robber III | 58.5% | 中等 | 
 343  | [整数拆分](./md/343.整数拆分.md) | Integer Break | 58.2% | 中等 | 
@@ -193,13 +195,16 @@
 459  | [重复的子字符串❤](./md/459.重复的子字符串.md) | Repeated Substring Pattern | 50.2% | 简单 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
 461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 | 
+486  | [预测赢家](./md/486.预测赢家.md) | Predict the Winner | 58.7% | 中等 | 
 491  | [递增子序列](./md/491.递增子序列.md) | Increasing Subsequences | 54.2% | 中等 | 
 529  | [扫雷游戏](./md/529.扫雷游戏.md) | Minesweeper | 64.8% | 中等 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 546  | [移除盒子❤](./md/546.移除盒子.md) | Remove Boxes | 64.7% | 困难 | 
+557  | [反转字符串中的单词 III](./md/557.反转字符串中的单词III.md) | Reverse Words in a String III | 73.4% | 简单 | 
 632  | [最小区间❤](./md/632.最小区间.md) | Smallest Range Covering Elements from K Lists | 58.8% | 困难 | 
 647  | [回文子串](./md/647.回文子串.md) | Palindromic Substrings | 64.1% | 中等 | 
+657  | [机器人能否返回原点](./md/657.机器人能否返回原点.md) | Robot Return to Origin | 78.7% | 简单 | 
 679  | [24 点游戏❤❤](./md/679.24点游戏.md) | 24 Game | 51.6% | 困难 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 696  | [计数二进制子串](./md/696.计数二进制子串.md) | Count Binary Substrings | 56.7% | 简单 | 
@@ -208,6 +213,7 @@
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
+841  | [钥匙和房间](./md/841.钥匙和房间.md) | Keys and Rooms | 65.3% | 中等 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
@@ -238,6 +244,7 @@
 剑指 Offer 09 | [用两个栈实现队列](./md/剑指Offer09.用两个栈实现队列.md) | 用两个栈实现队列 LCOF | 74.2% | 简单 | 
 剑指 Offer 11 | [旋转数组的最小数字](./md/剑指Offer13.旋转数组的最小数字.md) | 旋转数组的最小数字 LCOF | 49.2% | 简单 | 
 剑指 Offer 13 | [机器人的运动范围](./md/剑指Offer13.机器人的运动范围.md) | 机器人的运动范围  LCOF | 48.3% | 中等 | 
+剑指 Offer 20 | [表示数值的字符串](./md/剑指Offer20.表示数值的字符串.md) | 表示数值的字符串 LCOF | 23.1% | 中等 | 
 剑指 Offer 40 | [最小的k个数❤](./md/剑指Offer40.最小的k个数.md) | 最小的k个数  LCOF | 59.9% | 简单 | 
 剑指 Offer 45 | [把数组排成最小的数❤](./md/剑指Offer45.把数组排成最小的数.md) | 把数组排成最小的数 LCOF | 55.7% | 中等 | 
 剑指 Offer 56-I | [数组中数字出现的次数❤](./md/剑指Offer56-I.数组中数字出现的次数.md) | 数组中数字出现的次数 LCOF | 73.3% | 中等 | 
