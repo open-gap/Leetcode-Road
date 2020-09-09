@@ -174,6 +174,7 @@
 214  | [最短回文串](./md/214.最短回文串.md) |  |  | 困难 | 
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
+257  | [二叉树的所有路径](./md/257.二叉树的所有路径.md) | Binary Tree Paths | 65.6% | 简单 |  
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
@@ -183,6 +184,7 @@
 336  | [回文对❤](./md/336.回文对.md) | Palindrome Pairs | 37.3% | 困难 | 
 337  | [打家劫舍 III](./md/337.打家劫舍III.md) | House Robber III | 58.5% | 中等 | 
 343  | [整数拆分](./md/343.整数拆分.md) | Integer Break | 58.2% | 中等 | 
+347  | [前 K 个高频元素](./md/347.前K个高频元素.md) | Top K Frequent Elements | 61.5% | 中等 | 
 350  | [两个数组的交集 II](./md/350.两个数组的交集II.md) | Intersection of Two Arrays II | 50.2% | 简单 | 
 355  | [设计推特](./md/355.设计推特.md) | Design Twitter | 40.5% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
