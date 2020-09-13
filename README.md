@@ -171,7 +171,7 @@
 207  | [课程表❤](./md/207.课程表.md) | Course Schedule | 53.8% | 中等 | 
 209  | [长度最小的子数组](./md/209.长度最小的子数组.md) | Minimum Size Subarray Sum | 44.4% | 中等 | 
 213  | [打家劫舍 II](./md/213.打家劫舍II.md) | House Robber II | 38.9% | 中等 | 
-214  | [最短回文串](./md/214.最短回文串.md) |  |  | 困难 | 
+214  | [最短回文串❤](./md/214.最短回文串.md) | Shortest Palindrome | 36.3% | 困难 | 
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 216  | [组合总和 III](./md/216.组合总和III.md) | Combination Sum III | 73.5% | 中等 | 
 225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
