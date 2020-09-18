@@ -211,6 +211,7 @@
 647  | [回文子串](./md/647.回文子串.md) | Palindromic Substrings | 64.1% | 中等 | 
 657  | [机器人能否返回原点](./md/657.机器人能否返回原点.md) | Robot Return to Origin | 78.7% | 简单 | 
 679  | [24 点游戏❤❤](./md/679.24点游戏.md) | 24 Game | 51.6% | 困难 | 
+685  | [冗余连接 II❤❤](./md/685.冗余连接II.md) | Redundant Connection II | 45.0% | 困难 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 696  | [计数二进制子串](./md/696.计数二进制子串.md) | Count Binary Substrings | 56.7% | 简单 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
