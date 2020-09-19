@@ -192,6 +192,7 @@
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 378  | [有序矩阵中第K小的元素❤](./md/378.有序矩阵中第K小的元素.md) | Kth Smallest Element in a Sorted Matrix | 61.8% | 中等 | 
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
+404  | [左叶子之和](./md/404.左叶子之和.md) | Sum of Left Leaves | 56.0% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 410  | [分割数组的最大值](./md/410.分割数组的最大值.md) | Split Array Largest Sum | 52.6% | 困难 | 
 415  | [字符串相加](./md/415.字符串相加.md) | Add Strings | 51.7% | 简单 | 
