@@ -228,6 +228,7 @@
 912  | [排序数组❤❤](./md/912.排序数组.md) |  |  |  | 
 914  | [卡牌分组](./md/914.卡牌分组.md) | X of a Kind in a Deck of Cards | 35.8% | 简单 | 
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
+968  | [监控二叉树](./md/968.监控二叉树.md) | Binary Tree Cameras | 47.0% | 困难 | 
 994  | [腐烂的橘子](./md/994.腐烂的橘子.md) | Rotting Oranges | 50.6% | 简单 | 
 999  | [可以被一步捕获的棋子数](./md/999.可以被一步捕获的棋子数.md) | Available Captures for Rook | 70.0% | 简单 | 
 1013 | [将数组分成和相等的三个部分](./md/1013.将数组分成和相等的三个部分.md) | Partition Array Into Three Parts With Equal Sum | 40.8% | 简单 | 
