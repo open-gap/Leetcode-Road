@@ -202,6 +202,7 @@
 461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 | 
 486  | [预测赢家](./md/486.预测赢家.md) | Predict the Winner | 58.7% | 中等 | 
 491  | [递增子序列](./md/491.递增子序列.md) | Increasing Subsequences | 54.2% | 中等 | 
+501  | [二叉搜索树中的众数](./md/501.二叉搜索树中的众数.md) | Find Mode in Binary Search Tree | 48.3% | 简单 | 
 529  | [扫雷游戏](./md/529.扫雷游戏.md) | Minesweeper | 64.8% | 中等 | 
 538  | [把二叉搜索树转换为累加树](./md/538.把二叉搜索树转换为累加树.md) | Convert BST to Greater Tree | 63.9% | 简单 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
