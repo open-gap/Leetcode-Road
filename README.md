@@ -220,6 +220,8 @@
 685  | [冗余连接 II❤❤](./md/685.冗余连接II.md) | Redundant Connection II | 45.0% | 困难 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 696  | [计数二进制子串](./md/696.计数二进制子串.md) | Count Binary Substrings | 56.7% | 简单 | 
+700  | [二叉搜索树中的搜索](./md/700.二叉搜索树中的搜索.md) | Search in a Binary Search Tree | 74.4% | 简单 | 
+701  | [二叉搜索树中的插入操作](./md/701.二叉搜索树中的插入操作.md) | Insert into a Binary Search Tree | 72.0% | 中等 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
