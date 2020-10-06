@@ -224,8 +224,10 @@
 701  | [二叉搜索树中的插入操作](./md/701.二叉搜索树中的插入操作.md) | Insert into a Binary Search Tree | 72.0% | 中等 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
+771  | [宝石与石头](./md/771.宝石与石头.md) | Jewels and Stones | 84.6% | 简单 | 
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
+834  | [树中距离之和❤❤](./md/834.树中距离之和.md) | Sum of Distances in Tree | 45.7% | 困难 | 
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 841  | [钥匙和房间](./md/841.钥匙和房间.md) | Keys and Rooms | 65.3% | 中等 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
