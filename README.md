@@ -202,7 +202,8 @@
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 459  | [重复的子字符串❤](./md/459.重复的子字符串.md) | Repeated Substring Pattern | 50.2% | 简单 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
-461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 | 
+461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 |
+474  | [一和零❤](./md/474.一和零.md) | Ones and Zeroes | 55.3% | 中等 | 
 486  | [预测赢家](./md/486.预测赢家.md) | Predict the Winner | 58.7% | 中等 | 
 491  | [递增子序列](./md/491.递增子序列.md) | Increasing Subsequences | 54.2% | 中等 | 
 501  | [二叉搜索树中的众数](./md/501.二叉搜索树中的众数.md) | Find Mode in Binary Search Tree | 48.3% | 简单 | 
