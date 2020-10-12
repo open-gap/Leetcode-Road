@@ -199,6 +199,7 @@
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 410  | [分割数组的最大值](./md/410.分割数组的最大值.md) | Split Array Largest Sum | 52.6% | 困难 | 
 415  | [字符串相加](./md/415.字符串相加.md) | Add Strings | 51.7% | 简单 | 
+416  | [分割等和子集❤❤](./md/416.分割等和子集.md) | Partition Equal Subset Sum | 49.0% | 中等 | 
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 459  | [重复的子字符串❤](./md/459.重复的子字符串.md) | Repeated Substring Pattern | 50.2% | 简单 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
@@ -208,6 +209,7 @@
 491  | [递增子序列](./md/491.递增子序列.md) | Increasing Subsequences | 54.2% | 中等 | 
 501  | [二叉搜索树中的众数](./md/501.二叉搜索树中的众数.md) | Find Mode in Binary Search Tree | 48.3% | 简单 | 
 529  | [扫雷游戏](./md/529.扫雷游戏.md) | Minesweeper | 64.8% | 中等 | 
+530  | [二叉搜索树的最小绝对差](./md/530.二叉搜索树的最小绝对差.md) | Minimum Absolute Difference in BST | 59.8% | 简单 | 
 538  | [把二叉搜索树转换为累加树](./md/538.把二叉搜索树转换为累加树.md) | Convert BST to Greater Tree | 63.9% | 简单 | 
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
@@ -227,6 +229,7 @@
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
 771  | [宝石与石头](./md/771.宝石与石头.md) | Jewels and Stones | 84.6% | 简单 | 
+783  | [二叉搜索树节点最小距离](./md/783.二叉搜索树节点最小距离.md) | Minimum Distance Between BST Nodes | 54.6% | 简单 | 
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
 820  | [单词的压缩编码](./md/820.单词的压缩编码.md) | Short Encoding of Words | 46.4% | 中等 | 
 834  | [树中距离之和❤❤](./md/834.树中距离之和.md) | Sum of Distances in Tree | 45.7% | 困难 | 
