@@ -235,6 +235,7 @@
 834  | [树中距离之和❤❤](./md/834.树中距离之和.md) | Sum of Distances in Tree | 45.7% | 困难 | 
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 841  | [钥匙和房间](./md/841.钥匙和房间.md) | Keys and Rooms | 65.3% | 中等 | 
+844  | [比较含退格的字符串](./md/844.比较含退格的字符串.md) | Backspace String Compare | 52.2% | 简单 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
