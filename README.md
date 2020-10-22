@@ -228,6 +228,7 @@
 701  | [二叉搜索树中的插入操作](./md/701.二叉搜索树中的插入操作.md) | Insert into a Binary Search Tree | 72.0% | 中等 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
+763  | [划分字母区间](./md/763.划分字母区间.md) | Partition Labels | 74.2% | 中等 | 
 771  | [宝石与石头](./md/771.宝石与石头.md) | Jewels and Stones | 84.6% | 简单 | 
 783  | [二叉搜索树节点最小距离](./md/783.二叉搜索树节点最小距离.md) | Minimum Distance Between BST Nodes | 54.6% | 简单 | 
 785  | [判断二分图❤](./md/785.判断二分图.md) | Is Graph Bipartite? | 49.3% | 中等 | 
@@ -241,6 +242,7 @@
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
 912  | [排序数组❤❤](./md/912.排序数组.md) |  |  |  | 
 914  | [卡牌分组](./md/914.卡牌分组.md) | X of a Kind in a Deck of Cards | 35.8% | 简单 | 
+925  | [长按键入](./md/925.长按键入.md) | Long Pressed Name | 40.1% | 简单 | 
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
 968  | [监控二叉树](./md/968.监控二叉树.md) | Binary Tree Cameras | 47.0% | 困难 | 
 977  | [有序数组的平方](./md/977.有序数组的平方.md) | Squares of a Sorted Array | 73.4% | 简单 | 
