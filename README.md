@@ -238,6 +238,7 @@
 836  | [矩形重叠](./md/836.矩形重叠.md) | Rectangle Overlap | 49.2% | 简单 | 
 841  | [钥匙和房间](./md/841.钥匙和房间.md) | Keys and Rooms | 65.3% | 中等 | 
 844  | [比较含退格的字符串](./md/844.比较含退格的字符串.md) | Backspace String Compare | 52.2% | 简单 | 
+845  | [数组中的最长山脉](./md/845.数组中的最长山脉.md) | Longest Mountain in Array | 41.3% | 中等 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
@@ -251,6 +252,7 @@
 999  | [可以被一步捕获的棋子数](./md/999.可以被一步捕获的棋子数.md) | Available Captures for Rook | 70.0% | 简单 | 
 1002 | [查找常用字符](./md/1002.查找常用字符.md) | Find Common Characters | 73.4% | 简单 | 
 1013 | [将数组分成和相等的三个部分](./md/1013.将数组分成和相等的三个部分.md) | Partition Array Into Three Parts With Equal Sum | 40.8% | 简单 | 
+1024 | [视频拼接](./md/1024.视频拼接.md) | Video Stitching | 57.2% | 中等 | 
 1025 | [除数博弈](./md/1025.除数博弈.md) | Divisor Game | 71.4% | 简单 | 
 1071 | [字符串的最大公因子](./md/1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
 1103 | [分糖果 II](./md/1103.分糖果II.md) | Distribute Candies to People | 62.9% | 简单 | 
@@ -258,6 +260,7 @@
 1160 | [拼写单词](./md/1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
 1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
 1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
+1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
 面试题 01.07 | [旋转矩阵](./md/面试题01.07.旋转矩阵.md) | Rotate Matrix LCCI | 80.6% | 中等 | 
