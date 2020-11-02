@@ -191,10 +191,12 @@
 343  | [整数拆分](./md/343.整数拆分.md) | Integer Break | 58.2% | 中等 | 
 344  | [反转字符串](./md/344.反转字符串.md) | Reverse String | 72.3% | 简单 | 
 347  | [前 K 个高频元素](./md/347.前K个高频元素.md) | Top K Frequent Elements | 61.5% | 中等 | 
+349  | [两个数组的交集](./md/349.两个数组的交集.md) | Intersection of Two Arrays | 72.2% | 简单 | 
 350  | [两个数组的交集 II](./md/350.两个数组的交集II.md) | Intersection of Two Arrays II | 50.2% | 简单 | 
 355  | [设计推特](./md/355.设计推特.md) | Design Twitter | 40.5% | 中等 | 
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 378  | [有序矩阵中第K小的元素❤](./md/378.有序矩阵中第K小的元素.md) | Kth Smallest Element in a Sorted Matrix | 61.8% | 中等 | 
+381  | [O(1) 时间插入、删除和获取随机元素 - 允许重复❤](./md/381.O(1)时间插入、删除和获取随机元素-允许重复.md) | Insert Delete GetRandom O(1) - Duplicates allowed | 45.1% | 困难 | 
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
 404  | [左叶子之和](./md/404.左叶子之和.md) | Sum of Left Leaves | 56.0% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
@@ -204,7 +206,8 @@
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
 459  | [重复的子字符串❤](./md/459.重复的子字符串.md) | Repeated Substring Pattern | 50.2% | 简单 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
-461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 |
+461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 | 
+463  | [岛屿的周长](./md/463.岛屿的周长.md) | Island Perimeter | 71.5% | 简单 | 
 474  | [一和零❤](./md/474.一和零.md) | Ones and Zeroes | 55.3% | 中等 | 
 486  | [预测赢家](./md/486.预测赢家.md) | Predict the Winner | 58.7% | 中等 | 
 491  | [递增子序列](./md/491.递增子序列.md) | Increasing Subsequences | 54.2% | 中等 | 
@@ -259,6 +262,7 @@
 1111 | [有效括号的嵌套深度](./md/1111.有效括号的嵌套深度.md) | Maximum Nesting Depth of Two Valid Parentheses Strings | 76.2% | 中等 | 
 1160 | [拼写单词](./md/1160.拼写单词.md) | Find Words That Can Be Formed by Characters | 69.4% | 简单 | 
 1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
+1207 | [独一无二的出现次数](./md/1207.独一无二的出现次数.md) | Unique Number of Occurrences | 72.1% | 简单 | 
 1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
 1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
