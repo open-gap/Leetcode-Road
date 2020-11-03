@@ -248,6 +248,7 @@
 912  | [排序数组❤❤](./md/912.排序数组.md) |  |  |  | 
 914  | [卡牌分组](./md/914.卡牌分组.md) | X of a Kind in a Deck of Cards | 35.8% | 简单 | 
 925  | [长按键入](./md/925.长按键入.md) | Long Pressed Name | 40.1% | 简单 | 
+941  | [有效的山脉数组](./md/941.有效的山脉数组.md) | Valid Mountain Array | 38.2% | 简单 | 
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
 968  | [监控二叉树](./md/968.监控二叉树.md) | Binary Tree Cameras | 47.0% | 困难 | 
 977  | [有序数组的平方](./md/977.有序数组的平方.md) | Squares of a Sorted Array | 73.4% | 简单 | 
