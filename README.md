@@ -180,6 +180,7 @@
 234  | [回文链表](./md/234.回文链表.md) | Palindrome Linked List | 44.6% | 简单 | 
 236  | [二叉树的最近公共祖先](./md/236.二叉树的最近公共祖先.md) | Lowest Common Ancestor of a Binary Tree | 65.5% | 中等 | 
 257  | [二叉树的所有路径](./md/257.二叉树的所有路径.md) | Binary Tree Paths | 65.6% | 简单 |  
+283  | [移动零](./md/283.移动零.md) | Move Zeroes | 62.9% | 简单 | 
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
@@ -267,6 +268,7 @@
 1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
 1207 | [独一无二的出现次数](./md/1207.独一无二的出现次数.md) | Unique Number of Occurrences | 72.1% | 简单 | 
 1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
+1356 | [根据数字二进制下 1 的数目排序](./md/1356.根据数字二进制下1的数目排序.md) | Sort Integers by The Number of 1 Bits | 73.6% | 简单 | 
 1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
