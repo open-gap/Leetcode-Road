@@ -174,11 +174,13 @@
 214  | [最短回文串❤](./md/214.最短回文串.md) | Shortest Palindrome | 36.3% | 困难 | 
 215  | [数组中的第K个最大元素❤❤](./md/215.数组中的第K个最大元素.md) | Kth Largest Element in an Array | 61.8% | 中等 | 
 216  | [组合总和 III](./md/216.组合总和III.md) | Combination Sum III | 73.5% | 中等 | 
+222  | [完全二叉树的节点个数](./md/222.完全二叉树的节点个数.md) | Count Complete Tree Nodes | 76.4% | 中等 | 
 225  | [用队列实现栈](./md/225.用队列实现栈.md) | Implement Stack using Queues | 64.3% | 简单 | 
 226  | [翻转二叉树](./md/226.翻转二叉树.md) | Invert Binary Tree | 77.2% | 简单 | 
 235  | [二叉搜索树的最近公共祖先](./md/235.二叉搜索树的最近公共祖先.md) | Lowest Common Ancestor of a Binary Search Tree | 65.8% | 简单 | 
 234  | [回文链表](./md/234.回文链表.md) | Palindrome Linked List | 44.6% | 简单 | 
 236  | [二叉树的最近公共祖先](./md/236.二叉树的最近公共祖先.md) | Lowest Common Ancestor of a Binary Tree | 65.5% | 中等 | 
+242  | [有效的字母异位词](./md/242.有效的字母异位词.md) | Valid Anagram | 63.2% | 简单 | 
 257  | [二叉树的所有路径](./md/257.二叉树的所有路径.md) | Binary Tree Paths | 65.6% | 简单 |  
 283  | [移动零](./md/283.移动零.md) | Move Zeroes | 62.9% | 简单 | 
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
@@ -206,6 +208,7 @@
 415  | [字符串相加](./md/415.字符串相加.md) | Add Strings | 51.7% | 简单 | 
 416  | [分割等和子集❤❤](./md/416.分割等和子集.md) | Partition Equal Subset Sum | 49.0% | 中等 | 
 445  | [两数相加 II❤](./md/445.两数相加II.md) | Add Two Numbers II | 57.2% | 中等 | 
+452  | [用最少数量的箭引爆气球](./md/452.用最少数量的箭引爆气球.md) | Minimum Number of Arrows to Burst Balloons | 51.3% | 中等 | 
 459  | [重复的子字符串❤](./md/459.重复的子字符串.md) | Repeated Substring Pattern | 50.2% | 简单 | 
 460  | [LFU缓存❤❤](./md/460.LFU缓存.md) | LFU Cache | 37.6% | 困难 | 
 461  | [汉明距离](./md/461.汉明距离.md) | Hamming Distance | 77.4% | 简单 | 
@@ -270,6 +273,7 @@
 1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
 1356 | [根据数字二进制下 1 的数目排序](./md/1356.根据数字二进制下1的数目排序.md) | Sort Integers by The Number of 1 Bits | 73.6% | 简单 | 
 1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
+1370 | [上升下降字符串](./md/1370.上升下降字符串.md) | Increasing Decreasing String | 79.5% | 简单 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
 面试题 01.07 | [旋转矩阵](./md/面试题01.07.旋转矩阵.md) | Rotate Matrix LCCI | 80.6% | 中等 | 
