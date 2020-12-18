@@ -159,6 +159,7 @@
 154  | [寻找旋转排序数组中的最小值 II](./md/154.寻找旋转排序数组中的最小值II.md) | Find Minimum in Rotated Sorted Array II | 50.0% | 困难 | 
 155  | [最小栈](./md/155.最小栈.md) | Min Stack | 55.1% | 简单 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
+164  | [最大间距❤](./md/164.最大间距.md) |  |  | 困难 | 
 167  | [两数之和 II - 输入有序数组](./md/167.两数之和II-输入有序数组.md) | Two Sum II - Input array is sorted | 55.6% | 简单 | 
 168  | [Excel表列名称❤❤](./md/168.Excel表列名称.md) | Excel Sheet Column Title | 38.2% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
@@ -167,6 +168,7 @@
 199  | [二叉树的右视图](./md/199.二叉树的右视图.md) | Binary Tree Right Side View | 63.6% | 中等 | 
 200  | [岛屿数量](./md/200.岛屿数量.md) | Number of Islands | 49.0% | 中等 | 
 201  | [数字范围按位与](./md/201.数字范围按位与.md) | Bitwise AND of Numbers Range | 48.8% | 中等 | 
+204  | [计数质数](./md/204.计数质数.md) | Count Primes | 37.4% | 简单 | 
 206  | [反转链表](./md/206.反转链表.md) | Reverse Linked List | 68.3% | 简单 | 
 207  | [课程表❤](./md/207.课程表.md) | Course Schedule | 53.8% | 中等 | 
 209  | [长度最小的子数组](./md/209.长度最小的子数组.md) | Minimum Size Subarray Sum | 44.4% | 中等 | 
@@ -184,6 +186,7 @@
 257  | [二叉树的所有路径](./md/257.二叉树的所有路径.md) | Binary Tree Paths | 65.6% | 简单 |  
 283  | [移动零](./md/283.移动零.md) | Move Zeroes | 62.9% | 简单 | 
 289  | [生命游戏](./md/289.生命游戏.md) | Game of Life | 73.0% | 中等 | 
+290  | [单词规律](./md/290.单词规律.md) | Word Pattern | 44.4% | 简单 | 
 300  | [最长上升子序列❤❤](./md/300.最长上升子序列.md) | Longest Increasing Subsequence | 44.2% | 中等 | 
 309  | [最佳买卖股票时机含冷冻期❤❤](./md/309.最佳买卖股票时机含冷冻期.md) | Best Time to Buy and Sell Stock with Cooldown | 55.4% | 中等 | 
 315  | [计算右侧小于当前元素的个数❤❤](./md/315.计算右侧小于当前元素的个数.md) | Count of Smaller Numbers After Self | 38.5% | 困难 | 
@@ -201,6 +204,7 @@
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 378  | [有序矩阵中第K小的元素❤](./md/378.有序矩阵中第K小的元素.md) | Kth Smallest Element in a Sorted Matrix | 61.8% | 中等 | 
 381  | [O(1) 时间插入、删除和获取随机元素 - 允许重复❤](./md/381.O(1)时间插入、删除和获取随机元素-允许重复.md) | Insert Delete GetRandom O(1) - Duplicates allowed | 45.1% | 困难 | 
+389  | [找不同](./md/389.找不同.md) | Find the Difference | 68.8% | 简单 | 
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
 404  | [左叶子之和](./md/404.左叶子之和.md) | Sum of Left Leaves | 56.0% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
@@ -237,6 +241,7 @@
 701  | [二叉搜索树中的插入操作](./md/701.二叉搜索树中的插入操作.md) | Insert into a Binary Search Tree | 72.0% | 中等 | 
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
+738  | [单调递增的数字](./md/738.单调递增的数字.md) | Monotone Increasing Digits | 48.3% | 中等 | 
 763  | [划分字母区间](./md/763.划分字母区间.md) | Partition Labels | 74.2% | 中等 | 
 771  | [宝石与石头](./md/771.宝石与石头.md) | Jewels and Stones | 84.6% | 简单 | 
 783  | [二叉搜索树节点最小距离](./md/783.二叉搜索树节点最小距离.md) | Minimum Distance Between BST Nodes | 54.6% | 简单 | 
