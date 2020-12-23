@@ -204,6 +204,7 @@
 365  | [水壶问题❤❤](./md/365.水壶问题.md) | Water and Jug Problem | 33.1% | 中等 | 
 378  | [有序矩阵中第K小的元素❤](./md/378.有序矩阵中第K小的元素.md) | Kth Smallest Element in a Sorted Matrix | 61.8% | 中等 | 
 381  | [O(1) 时间插入、删除和获取随机元素 - 允许重复❤](./md/381.O(1)时间插入、删除和获取随机元素-允许重复.md) | Insert Delete GetRandom O(1) - Duplicates allowed | 45.1% | 困难 | 
+387  | [字符串中的第一个唯一字符](./md/387.字符串中的第一个唯一字符.md) | First Unique Character in a String | 49.4% | 简单 |
 389  | [找不同](./md/389.找不同.md) | Find the Difference | 68.8% | 简单 | 
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
 404  | [左叶子之和](./md/404.左叶子之和.md) | Sum of Left Leaves | 56.0% | 简单 | 
@@ -242,6 +243,7 @@
 718  | [最长重复子数组](./md/718.最长重复子数组.md) | Maximum Length of Repeated Subarray | 53.5% | 中等 | 
 733  | [图像渲染](./md/733.图像渲染.md) | Flood Fill | 56.8% | 简单 | 
 738  | [单调递增的数字](./md/738.单调递增的数字.md) | Monotone Increasing Digits | 48.3% | 中等 | 
+746  | [使用最小花费爬楼梯](./md/746.使用最小花费爬楼梯.md) | Min Cost Climbing Stairs | 54.5% | 简单 | 
 763  | [划分字母区间](./md/763.划分字母区间.md) | Partition Labels | 74.2% | 中等 | 
 771  | [宝石与石头](./md/771.宝石与石头.md) | Jewels and Stones | 84.6% | 简单 | 
 783  | [二叉搜索树节点最小距离](./md/783.二叉搜索树节点最小距离.md) | Minimum Distance Between BST Nodes | 54.6% | 简单 | 
