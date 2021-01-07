@@ -182,6 +182,7 @@
 235  | [二叉搜索树的最近公共祖先](./md/235.二叉搜索树的最近公共祖先.md) | Lowest Common Ancestor of a Binary Search Tree | 65.8% | 简单 | 
 234  | [回文链表](./md/234.回文链表.md) | Palindrome Linked List | 44.6% | 简单 | 
 236  | [二叉树的最近公共祖先](./md/236.二叉树的最近公共祖先.md) | Lowest Common Ancestor of a Binary Tree | 65.5% | 中等 | 
+239  | [滑动窗口最大值](./md/239.滑动窗口最大值.md) | Sliding Window Maximum | 49.6% | 困难 | 
 242  | [有效的字母异位词](./md/242.有效的字母异位词.md) | Valid Anagram | 63.2% | 简单 | 
 257  | [二叉树的所有路径](./md/257.二叉树的所有路径.md) | Binary Tree Paths | 65.6% | 简单 |  
 283  | [移动零](./md/283.移动零.md) | Move Zeroes | 62.9% | 简单 | 
@@ -228,7 +229,9 @@
 542  | [01 矩阵](./md/542.01矩阵.md) | 01 Matrix | 42.4% | 中等 | 
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 546  | [移除盒子❤](./md/546.移除盒子.md) | Remove Boxes | 64.7% | 困难 | 
+547  | [省份数量](./md/547.省份数量.md) | Number of Provinces | 60.2% | 中等 | 
 557  | [反转字符串中的单词 III](./md/557.反转字符串中的单词III.md) | Reverse Words in a String III | 73.4% | 简单 | 
+605  | [种花问题](./md/605.种花问题.md) | Can Place Flowers | 34.3% | 简单 |
 617  | [合并二叉树](./md/617.合并二叉树.md) | Merge Two Binary Trees | 78.2% | 简单 | 
 632  | [最小区间❤](./md/632.最小区间.md) | Smallest Range Covering Elements from K Lists | 58.8% | 困难 | 
 637  | [二叉树的层平均值](./md/637.二叉树的层平均值.md) | Average of Levels in Binary Tree | 68.7% | 简单 | 
@@ -270,6 +273,7 @@
 1013 | [将数组分成和相等的三个部分](./md/1013.将数组分成和相等的三个部分.md) | Partition Array Into Three Parts With Equal Sum | 40.8% | 简单 | 
 1024 | [视频拼接](./md/1024.视频拼接.md) | Video Stitching | 57.2% | 中等 | 
 1025 | [除数博弈](./md/1025.除数博弈.md) | Divisor Game | 71.4% | 简单 | 
+1046 | [最后一块石头的重量](./md/1046.最后一块石头的重量.md) | Last Stone Weight | 65.5% | 简单 | 
 1071 | [字符串的最大公因子](./md/1071.字符串的最大公因子.md) | Greatest Common Divisor of Strings | 55.5% | 简单 | 
 1103 | [分糖果 II](./md/1103.分糖果II.md) | Distribute Candies to People | 62.9% | 简单 | 
 1111 | [有效括号的嵌套深度](./md/1111.有效括号的嵌套深度.md) | Maximum Nesting Depth of Two Valid Parentheses Strings | 76.2% | 中等 | 
