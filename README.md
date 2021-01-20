@@ -164,6 +164,7 @@
 168  | [Excel表列名称❤❤](./md/168.Excel表列名称.md) | Excel Sheet Column Title | 38.2% | 简单 | 
 169  | [多数元素](./md/169.多数元素.md) | Majority Element | 62.7% | 简单 | 
 174  | [地下城游戏❤](./md/174.地下城游戏.md) | Dungeon Game | 47.9% | 困难 | 
+189  | [旋转数组❤](./md/189.旋转数组.md) | Rotate Array | 45.5% | 中等 | 
 198  | [打家劫舍](./md/198.打家劫舍.md) | House Robber | 46.2% | 简单 | 
 199  | [二叉树的右视图](./md/199.二叉树的右视图.md) | Binary Tree Right Side View | 63.6% | 中等 | 
 200  | [岛屿数量](./md/200.岛屿数量.md) | Number of Islands | 49.0% | 中等 | 
@@ -233,6 +234,7 @@
 557  | [反转字符串中的单词 III](./md/557.反转字符串中的单词III.md) | Reverse Words in a String III | 73.4% | 简单 | 
 605  | [种花问题](./md/605.种花问题.md) | Can Place Flowers | 34.3% | 简单 |
 617  | [合并二叉树](./md/617.合并二叉树.md) | Merge Two Binary Trees | 78.2% | 简单 | 
+628  | [三个数的最大乘积](./md/628.三个数的最大乘积.md) | Maximum Product of Three Numbers | 51.3% | 简单 | 
 632  | [最小区间❤](./md/632.最小区间.md) | Smallest Range Covering Elements from K Lists | 58.8% | 困难 | 
 637  | [二叉树的层平均值](./md/637.二叉树的层平均值.md) | Average of Levels in Binary Tree | 68.7% | 简单 | 
 647  | [回文子串](./md/647.回文子串.md) | Palindromic Substrings | 64.1% | 中等 | 
