@@ -2,7 +2,7 @@
 记录自己完成LeetCode的代码和结果。  
 
 序号 |    中文名称    |    英文名称    |    通过率    |    难度    | 
-:--: |    :------     |    :-------   |    :-----:   |    :----:  | 
+:--  |    :------     |    :-------   |    :-----:   |    :----:  | 
 1    | [两数之和](./md/1.两数之和.md) | Two Sum | 47.0% | 简单 | 
 2    | [两数相加](./md/2.两数相加.md) | Add Two Numbers | 36.0% | 中等 | 
 3    | [无重复字符的最长子串](./md/3.无重复字符的最长子串.md) | Longest Substring Without Repeating Characters | 32.0% | 中等  | 
@@ -209,6 +209,7 @@
 387  | [字符串中的第一个唯一字符](./md/387.字符串中的第一个唯一字符.md) | First Unique Character in a String | 49.4% | 简单 |
 389  | [找不同](./md/389.找不同.md) | Find the Difference | 68.8% | 简单 | 
 392  | [判断子序列](./md/392.判断子序列.md) | Is Subsequence | 49.1% | 简单 | 
+403  | [青蛙过河](./md/403.青蛙过河.md) | Frog Jump | 42.0% | 困难 | 
 404  | [左叶子之和](./md/404.左叶子之和.md) | Sum of Left Leaves | 56.0% | 简单 | 
 409  | [最长回文串](./md/409.最长回文串.md) | Longest Palindrome | 54.3% | 简单 | 
 410  | [分割数组的最大值](./md/410.分割数组的最大值.md) | Split Array Largest Sum | 52.6% | 困难 | 
@@ -236,6 +237,7 @@
 617  | [合并二叉树](./md/617.合并二叉树.md) | Merge Two Binary Trees | 78.2% | 简单 | 
 628  | [三个数的最大乘积](./md/628.三个数的最大乘积.md) | Maximum Product of Three Numbers | 51.3% | 简单 | 
 632  | [最小区间❤](./md/632.最小区间.md) | Smallest Range Covering Elements from K Lists | 58.8% | 困难 | 
+633  | [平方数之和](./md/633.平方数之和.md) | Sum of Square Numbers | 39.8% | 中等 | 
 637  | [二叉树的层平均值](./md/637.二叉树的层平均值.md) | Average of Levels in Binary Tree | 68.7% | 简单 | 
 647  | [回文子串](./md/647.回文子串.md) | Palindromic Substrings | 64.1% | 中等 | 
 657  | [机器人能否返回原点](./md/657.机器人能否返回原点.md) | Robot Return to Origin | 78.7% | 简单 | 
@@ -259,6 +261,7 @@
 841  | [钥匙和房间](./md/841.钥匙和房间.md) | Keys and Rooms | 65.3% | 中等 | 
 844  | [比较含退格的字符串](./md/844.比较含退格的字符串.md) | Backspace String Compare | 52.2% | 简单 | 
 845  | [数组中的最长山脉](./md/845.数组中的最长山脉.md) | Longest Mountain in Array | 41.3% | 中等 | 
+872  | [叶子相似的树](./md/872.叶子相似的树.md) | Leaf-Similar Trees | 64.8% | 简单 | 
 876  | [链表的中间结点](./md/876.链表的中间结点.md) | Middle of the Linked List | 67.4% | 简单 | 
 887  | [鸡蛋掉落❤❤](./md/887.鸡蛋掉落.md) | Super Egg Drop | 21.2% | 困难 | 
 892  | [三维形体的表面积](./md/892.三维形体的表面积.md) | Surface Area of 3D Shapes | 56.6% | 简单 | 
@@ -287,6 +290,9 @@
 1356 | [根据数字二进制下 1 的数目排序](./md/1356.根据数字二进制下1的数目排序.md) | Sort Integers by The Number of 1 Bits | 73.6% | 简单 | 
 1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
 1370 | [上升下降字符串](./md/1370.上升下降字符串.md) | Increasing Decreasing String | 79.5% | 简单 | 
+1486 | [数组异或操作](./md/1486.数组异或操作.md) | XOR Operation in an Array | 85.9% | 简单 | 
+1720 | [解码异或后的数组](./md/1720.解码异或后的数组.md) | Decode XORed Array | 86.7% | 简单 | 
+1723 | [完成所有工作的最短时间❤](./md/1723.完成所有工作的最短时间.md) | Find Minimum Time to Finish All Jobs | 48.2% | 困难 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
 面试题 01.07 | [旋转矩阵](./md/面试题01.07.旋转矩阵.md) | Rotate Matrix LCCI | 80.6% | 中等 | 
