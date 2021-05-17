@@ -232,6 +232,7 @@
 543  | [二叉树的直径](./md/543.二叉树的直径.md) | Diameter of Binary Tree | 49.1% | 简单 | 
 546  | [移除盒子❤](./md/546.移除盒子.md) | Remove Boxes | 64.7% | 困难 | 
 547  | [省份数量](./md/547.省份数量.md) | Number of Provinces | 60.2% | 中等 | 
+554  | [砖墙](./md/554.砖墙.md) | Brick Wall | 49.7% | 中等 | 
 557  | [反转字符串中的单词 III](./md/557.反转字符串中的单词III.md) | Reverse Words in a String III | 73.4% | 简单 | 
 605  | [种花问题](./md/605.种花问题.md) | Can Place Flowers | 34.3% | 简单 |
 617  | [合并二叉树](./md/617.合并二叉树.md) | Merge Two Binary Trees | 78.2% | 简单 | 
@@ -243,6 +244,7 @@
 657  | [机器人能否返回原点](./md/657.机器人能否返回原点.md) | Robot Return to Origin | 78.7% | 简单 | 
 679  | [24 点游戏❤❤](./md/679.24点游戏.md) | 24 Game | 51.6% | 困难 | 
 685  | [冗余连接 II❤❤](./md/685.冗余连接II.md) | Redundant Connection II | 45.0% | 困难 | 
+690  | [员工的重要性](./md/690.员工的重要性.md) | Employee Importance | 64.3% | 简单 | 
 695  | [岛屿的最大面积](./md/695.岛屿的最大面积.md) | Max Area of Island | 61.1% | 中等 | 
 696  | [计数二进制子串](./md/696.计数二进制子串.md) | Count Binary Substrings | 56.7% | 简单 | 
 700  | [二叉搜索树中的搜索](./md/700.二叉搜索树中的搜索.md) | Search in a Binary Search Tree | 74.4% | 简单 | 
@@ -272,6 +274,7 @@
 945  | [使数组唯一的最小增量](./md/945.使数组唯一的最小增量.md) | Minimum Increment to Make Array Unique | 46.4% | 中等 | 
 968  | [监控二叉树](./md/968.监控二叉树.md) | Binary Tree Cameras | 47.0% | 困难 | 
 977  | [有序数组的平方](./md/977.有序数组的平方.md) | Squares of a Sorted Array | 73.4% | 简单 | 
+993  | [二叉树的堂兄弟节点](./md/993.二叉树的堂兄弟节点.md) | Cousins in Binary Tree | 54.7% | 简单 | 
 994  | [腐烂的橘子](./md/994.腐烂的橘子.md) | Rotting Oranges | 50.6% | 简单 | 
 999  | [可以被一步捕获的棋子数](./md/999.可以被一步捕获的棋子数.md) | Available Captures for Rook | 70.0% | 简单 | 
 1002 | [查找常用字符](./md/1002.查找常用字符.md) | Find Common Characters | 73.4% | 简单 | 
@@ -287,12 +290,15 @@
 1162 | [地图分析❤](./md/1162.地图分析.md) | As Far from Land as Possible | 43.6% | 中等 | 
 1207 | [独一无二的出现次数](./md/1207.独一无二的出现次数.md) | Unique Number of Occurrences | 72.1% | 简单 | 
 1248 | [统计「优美子数组」](./md/1248.统计「优美子数组」.md) | Count Number of Nice Subarrays | 53.2% | 中等 | 
+1269 | [停在原地的方案数❤❤](./md/1269.停在原地的方案数.md) | Number of Ways to Stay in the Same Place After Some Steps | 48.5% | 困难 | 
+1310 | [子数组异或查询](./md/1310.子数组异或查询.md) | XOR Queries of a Subarray | 70.4% | 中等 | 
 1356 | [根据数字二进制下 1 的数目排序](./md/1356.根据数字二进制下1的数目排序.md) | Sort Integers by The Number of 1 Bits | 73.6% | 简单 | 
 1365 | [有多少小于当前数字的数字](./md/1365.有多少小于当前数字的数字.md) | How Many Numbers Are Smaller Than the Current Number | 82.5% | 简单 | 
 1370 | [上升下降字符串](./md/1370.上升下降字符串.md) | Increasing Decreasing String | 79.5% | 简单 | 
 1486 | [数组异或操作](./md/1486.数组异或操作.md) | XOR Operation in an Array | 85.9% | 简单 | 
 1720 | [解码异或后的数组](./md/1720.解码异或后的数组.md) | Decode XORed Array | 86.7% | 简单 | 
 1723 | [完成所有工作的最短时间❤](./md/1723.完成所有工作的最短时间.md) | Find Minimum Time to Finish All Jobs | 48.2% | 困难 | 
+1734 | [解码异或后的排列❤](./md/1734.解码异或后的排列.md) | Decode XORed Permutation | 65.7% | 中等 | 
 ---  | ---------------------------- | ---------------------------- | ----% | --  | 
 面试题 01.06 | [字符串压缩](./md/面试题01.06.字符串压缩.md) | Compress String LCCI | 49.0% | 简单 | 
 面试题 01.07 | [旋转矩阵](./md/面试题01.07.旋转矩阵.md) | Rotate Matrix LCCI | 80.6% | 中等 | 
